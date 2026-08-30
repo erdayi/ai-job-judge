@@ -1,0 +1,1342 @@
+[
+  {
+    "company": "中国航天科工",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/yTLw8hN6GF26vSZy8zekEw",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "诺亚控股",
+    "industry": "金融",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/KLmrx-mrAFuyEq8oRNfy1g?scene=1&click_id=1504",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中科光电",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://app.mokahr.com/campus-recruitment/hdzn/151324?locale=zh-CN#/jobs?zhineng%5B0%5D=209066",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "京东方",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://campus.boe.com/custom/campus",
+    "family": "ats_custom",
+    "host": "campus.boe.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "内蒙古农商银行",
+    "industry": "金融",
+    "status": "暂无合适岗位",
+    "url": "https://nmnshxy2026.hersingdat.com/",
+    "family": "ats_custom",
+    "host": "nmnshxy2026.hersingdat.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "科大讯飞",
+    "industry": "互联网",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/OEW0DyGsAZUxlUtEWfUwvQ",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "开立医疗",
+    "industry": "其他",
+    "status": "未投递",
+    "url": "https://app.mokahr.com/campus-recruitment/sonoscape/94392/#/",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "镭目科技",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/zLiUEigJl1iApPnE6EpBDw?scene=1&click_id=1344",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "穹彻智能（人才计划）",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/LR6BvAhbjuMPc4GtYQGkug?scene=1",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中兴通讯",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100120257",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "乐元素",
+    "industry": "互联网,游戏",
+    "status": "暂无合适岗位",
+    "url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "长飞光纤",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://yofc2.zhiye.com/campus/jobs",
+    "family": "beisen_zhiye",
+    "host": "yofc2.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "杭州新中大",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/OD0N30qrrUgW-9UspxjnsA?scene=1&click_id=1278",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "必易微",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/KM8M5MLyPnkMNWhc3MuQ3g?scene=1&click_id=1277",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "掌趣科技",
+    "industry": "互联网",
+    "status": "暂无合适岗位",
+    "url": "https://app.mokahr.com/campus-recruitment/ourpalm/43628#/job/0289ff68-d764-4c22-bfe7-f368cbbb2263",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "科华集团",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://app.mokahr.com/campus-recruitment/kehua/92510#/page/%E6%A0%A1%E6%8B%9B%E8%81%8C%E4%BD%8D",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "中国电信天翼云",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html",
+    "family": "hotjob_wecruit",
+    "host": "wecruit.hotjob.cn",
+    "hints": [
+      "position/campus",
+      "school.html",
+      "enterprise ATS"
+    ]
+  },
+  {
+    "company": "小马智行（人才计划）",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://ponyai.jobs.feishu.cn/ponycampus",
+    "family": "feishu_jobs",
+    "host": "ponyai.jobs.feishu.cn",
+    "hints": [
+      "position/list",
+      "current/limit pagination",
+      "SPA list/detail"
+    ]
+  },
+  {
+    "company": "航天科技集团",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/z3LM4t-hkE0QJj_YXBilUw?scene=1&click_id=1225",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "联合飞机",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/7L_3_kHppSb4si2x1aYP0Q?scene=1&click_id=1199",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "能良电商",
+    "industry": "互联网",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/LYM7hdZ9iW3tMA9uZffCEw",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中核—中国中原对外工程有限公司",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://cnnc.m.zhiye.com/joblist.html?jc=2&ky=&pi=1&ps=10&c1=&c2=1_162&c=",
+    "family": "beisen_zhiye",
+    "host": "cnnc.m.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "中建八局集团",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://job.cscec8b.com.cn/campus",
+    "family": "ats_custom",
+    "host": "job.cscec8b.com.cn",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "联发科技",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mediatek.zhiye.com/campus",
+    "family": "beisen_zhiye",
+    "host": "mediatek.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "大疆",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://apply.careers.dji.com/campus-recruitment/dji/143359?locale=zh-CN#/?page=1&pageSize=30",
+    "family": "ats_custom",
+    "host": "apply.careers.dji.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "欧普照明",
+    "industry": "快消",
+    "status": "暂无合适岗位",
+    "url": "https://wecruit.hotjob.cn/SU646ed9920dcad45af14821b4/mc/position/campus",
+    "family": "hotjob_wecruit",
+    "host": "wecruit.hotjob.cn",
+    "hints": [
+      "position/campus",
+      "school.html",
+      "enterprise ATS"
+    ]
+  },
+  {
+    "company": "新凯来",
+    "industry": "央国企",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/LCZtpuXbu6uumZmNFg7AZA?scene=1",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "固胜科技",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/zuap56bn_5aTm3FuZ1Rg5w",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "华夏航空",
+    "industry": "其他",
+    "status": "初筛",
+    "url": "https://hxhk.zhiye.com/campus/jobs",
+    "family": "beisen_zhiye",
+    "host": "hxhk.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "自变量机器人",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://x2-robot.jobs.feishu.cn/912130/position/list?keywords=&category=&location=&project=7650350869535869227&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+    "family": "feishu_jobs",
+    "host": "x2-robot.jobs.feishu.cn",
+    "hints": [
+      "position/list",
+      "current/limit pagination",
+      "SPA list/detail"
+    ]
+  },
+  {
+    "company": "智元机器人（人才计划）",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/YtVOtxKeyXX7IH6bL_4Y5A",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "它石智航（人才计划）",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/Fa164U5Atgslp3861-TGnQ?scene=1&click_id=484",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "上海中建东孚公司",
+    "industry": "央国企",
+    "status": "等待",
+    "url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+    "family": "ats_custom",
+    "host": "job.cscec8b.com.cn",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "中车株洲电机",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://crrczzs.zhiye.com/campus",
+    "family": "beisen_zhiye",
+    "host": "crrczzs.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "普渡机器人",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://pudutech.zhiye.com/campus",
+    "family": "beisen_zhiye",
+    "host": "pudutech.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "BCG（中国）",
+    "industry": "外企,金融",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/pG8ZfkWVigYQDxOcnTHsUg?scene=1&click_id=469",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "阿里巴巴（人才计划）",
+    "industry": "互联网",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/5phiRqiTz7RqzGy8SDf3gg?scene=1&click_id=457",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "拓竹科技",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/NRXtFGt3MXRKgs-zzZjFqg?scene=1&click_id=455",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "卓驭（人才计划）",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://we.zyt.com/5/jobs?sessionid=",
+    "family": "ats_custom",
+    "host": "we.zyt.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "哔哩哔哩",
+    "industry": "互联网",
+    "status": "未投递",
+    "url": "https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts",
+    "family": "ats_custom",
+    "host": "jobs.bilibili.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "四维图新",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://navinfo102.zhiye.com/campus/jobs",
+    "family": "beisen_zhiye",
+    "host": "navinfo102.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "惠普",
+    "industry": "外企,科技",
+    "status": "未投递",
+    "url": "https://apply.hp.com/careers?start=0&pid=41922401&sort_by=timestamp&filter_seniority=graduate",
+    "family": "ats_custom",
+    "host": "apply.hp.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "艾为电子",
+    "industry": "科技",
+    "status": "等待",
+    "url": "https://awinic.zhiye.com/?sessionid=",
+    "family": "beisen_zhiye",
+    "host": "awinic.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "库玛科技",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://mammotion.jobs.feishu.cn/campus_recruitment/position/list?project=7611843487977654537",
+    "family": "feishu_jobs",
+    "host": "mammotion.jobs.feishu.cn",
+    "hints": [
+      "position/list",
+      "current/limit pagination",
+      "SPA list/detail"
+    ]
+  },
+  {
+    "company": "博世",
+    "industry": "外企",
+    "status": "初筛",
+    "url": "https://app.mokahr.com/campus-recruitment/bosch/73873#/jobs?keyword=2027%E6%A0%A1%E6%8B%9B",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "软通动力",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://career.isoftstone.com/talent/htmls/xiaoyuanzhaopin/index.html",
+    "family": "ats_custom",
+    "host": "career.isoftstone.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "中国电科第十四研究所",
+    "industry": "央国企",
+    "status": "等待",
+    "url": "https://mp.weixin.qq.com/s/lqZMq0oPNHeqasWwZY5Lgw?scene=1&click_id=423",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中国电科第十研究所",
+    "industry": "央国企",
+    "status": "等待",
+    "url": "https://cetc.iguopin.com/job-campus",
+    "family": "ats_custom",
+    "host": "cetc.iguopin.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "云象机器人",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/Y2WjDpk52xezGcrmgteqiQ?scene=1&click_id=400",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "代塔供应链",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/oiuQlCDxIGovilgzjDlIqQ?scene=1&click_id=390",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "vivo（人才计划）",
+    "industry": "科技",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/0KlCGXBMwxbU2NquqE6eQw?scene=1",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "牧原",
+    "industry": "其他",
+    "status": "现在基本的实现思路大概有了，但一些衔接以及搜索过程还存在问题。由于你见过的网站太少，导致搜索不够准确，产生了一些不合适的脏数据。",
+    "url": "https://mp.weixin.qq.com/s/BKMC3SHRH65x48d6_CumaA?scene=1&click_id=366",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "龙蟠科技",
+    "industry": "科技",
+    "status": "",
+    "url": "https://mp.weixin.qq.com/s/wdA3reFkAkCV3uuXWy0H1Q?scene=1",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "北京国望光学科技",
+    "industry": "央国企,科技",
+    "status": "因此，接下来的工作重点如下：",
+    "url": "https://mp.weixin.qq.com/s/P7v0alwzLWnwD041R-Ipow?scene=1",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "上海电气",
+    "industry": "央国企",
+    "status": "",
+    "url": "https://mp.weixin.qq.com/s/wKttLoGxZOWIA5Cr5vYfaA",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "是为科技",
+    "industry": "科技",
+    "status": "1. 架构优化与适配",
+    "url": "https://mp.weixin.qq.com/s/OB_FDFcVt2LteSslt8w53g?scene=1&click_id=343",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "游族网络",
+    "industry": "互联网,游戏",
+    "status": "(a) 我会给你提供大量招聘官网的网页，你需要通过 Agent 依次打开并阅读，分析它们的页面结构。",
+    "url": "https://mp.weixin.qq.com/s/frovjpGTxw00M5mpeAN4VQ",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "禾赛科技",
+    "industry": "科技",
+    "status": "(b) 根据不同页面的结构进行设置、优化和迭代，不断完善架构。",
+    "url": "https://mp.weixin.qq.com/s/iiP1Ap4JW3i48TM9-se6Iw",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中电锦江",
+    "industry": "央国企",
+    "status": "(c) 最终目标是演化出一套通用的方案，实现打开任意一个招聘网站都能达到预期的效果。这非常有商业价值。",
+    "url": "https://mp.weixin.qq.com/s/Vf_rAneDi62eISDVjnijkw?scene=1",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "米哈游（llm方向）",
+    "industry": "互联网,游戏",
+    "status": "",
+    "url": "https://jobs.mihoyo.com/#/campus/position/8785",
+    "family": "ats_custom",
+    "host": "jobs.mihoyo.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "上海宇量昇",
+    "industry": "科技",
+    "status": "2. 插件界面美化与功能完善",
+    "url": "https://mp.weixin.qq.com/s/DnsN8K3oI2Xl5p_Lhj590A?scene=1&click_id=284",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中铁设计集团",
+    "industry": "央国企",
+    "status": "(b) 解决目前页面太简单、不可用的问题，特别是打分标准、项目详情链接等核心功能。",
+    "url": "https://mp.weixin.qq.com/s/AYkr0nHEyVkcatHBrLl8Ng?scene=1&click_id=252",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "科大讯飞（人才计划）",
+    "industry": "互联网",
+    "status": "",
+    "url": "https://mp.weixin.qq.com/s/vmh4sa_HA_0jJCq0nngJRA?scene=1&click_id=205",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "安必平",
+    "industry": "其他",
+    "status": "这是一个比较复杂的迭代过程。最终目的是希望当我打开一个网站链接投递简历时，你能先帮我自动筛选一轮，而不是让我花大量时间去判断有没有适合自己的岗位，因为那个过程非常痛苦。",
+    "url": "https://anbiping.jobs.feishu.cn/index/?keywords=&category=&location=&project=7639283695312554259&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+    "family": "feishu_jobs",
+    "host": "anbiping.jobs.feishu.cn",
+    "hints": [
+      "position/list",
+      "current/limit pagination",
+      "SPA list/detail"
+    ]
+  },
+  {
+    "company": "中国科学院光电技术研究所",
+    "industry": "央国企",
+    "status": "",
+    "url": "https://mp.weixin.qq.com/s/ZlSb1jOeyY6ld1NbQwbiZg",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中国天楹",
+    "industry": "央国企",
+    "status": "好，现在帮我准备优化。",
+    "url": "https://mp.weixin.qq.com/s/so7zsBb_A0Zy_Qo0VluIIQ",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "杰瑞集团",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://future.jereh.com/campus/jobs?memory=%7B%7D&silence=1",
+    "family": "ats_custom",
+    "host": "future.jereh.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "航空工业通飞",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/xEJCfP5Bl_kC-cQo84Gb_A",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中国汽车技术研究中心",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/6gFAYRnHtyiGKJqZkMSTqA",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中国平安",
+    "industry": "央国企",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/OGTRehNcDZgKaNosQ-aIvw",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "精进电动",
+    "industry": "科技,制造业",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/ixbn4WXqkjKj75m98ukvHA?scene=1&click_id=166",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "长江存储",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://ymtc-campus.zhiye.com/campus/jobs",
+    "family": "beisen_zhiye",
+    "host": "ymtc-campus.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "海克斯康",
+    "industry": "科技,制造业",
+    "status": "初筛",
+    "url": "https://hexagonhms.hotjob.cn/",
+    "family": "hotjob_wecruit",
+    "host": "hexagonhms.hotjob.cn",
+    "hints": [
+      "position/campus",
+      "school.html",
+      "enterprise ATS"
+    ]
+  },
+  {
+    "company": "中铁二院",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/dnmyS1l2IMaTqunbsISI2w?scene=1&click_id=73",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "中铁第四勘察设计院",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/Sbd3pxyYVugQkfsIZvnOCw",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "工大卫星",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/KWBu6Bo_l1bAHRpwEfc_Nw?scene=1&click_id=56",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "新意科技",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/-QRqs07m4wEziNzdduNmNQ?scene=1&click_id=89",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "星图测控",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://mp.weixin.qq.com/s/BIN95z6M_WQzbgy_esb05A?scene=1&click_id=57",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "群核科技（公众战略人才计划）",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://app.mokahr.com/campus_apply/qunhemail/2832#/job/c204257b-1827-4874-8ba3-436334e4d21d",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "sharpa",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://fcn5hvc5qbfs.jobs.feishu.cn/668262/?spread=A2B3G4G",
+    "family": "feishu_jobs",
+    "host": "fcn5hvc5qbfs.jobs.feishu.cn",
+    "hints": [
+      "position/list",
+      "current/limit pagination",
+      "SPA list/detail"
+    ]
+  },
+  {
+    "company": "东芯半导体",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/3Jh5YexL980PlyjgZWy6mg?scene=1&click_id=90",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "小米（人才计划）",
+    "industry": "互联网",
+    "status": "初筛",
+    "url": "https://hr.xiaomi.com/toptalent?sessionid=",
+    "family": "ats_custom",
+    "host": "hr.xiaomi.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "万得wind",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://wcms.wind.com.cn:9006/wcmsweb/recruitH5/#/position/detail?id=37&projectID=4170&type=9002",
+    "family": "ats_custom",
+    "host": "wcms.wind.com.cn:9006",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "美团（人才计划）",
+    "industry": "互联网",
+    "status": "未投递",
+    "url": "https://mp.weixin.qq.com/s/g-8j7uMH3FSWdrVLiJ5fXQ",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "金凤科技",
+    "industry": "制造业",
+    "status": "暂无合适岗位",
+    "url": "https://goldwind2.zhiye.com/campus/jobs",
+    "family": "beisen_zhiye",
+    "host": "goldwind2.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "Meshy",
+    "industry": "互联网,外企",
+    "status": "初筛",
+    "url": "https://app.mokahr.com/social-recruitment/taichi/148086?locale=en-US#/",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "长鑫存储",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://cxmt.zhiye.com/campus/jobs",
+    "family": "beisen_zhiye",
+    "host": "cxmt.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "TP-LINK",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://hr.tp-link.com.cn/?sessionid=",
+    "family": "ats_custom",
+    "host": "hr.tp-link.com.cn",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "知乎",
+    "industry": "互联网",
+    "status": "初筛",
+    "url": "https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng%5B0%5D=131503&page=1&_k=1ggyui",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "歌尔股份",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://wecruit.hotjob.cn/SU63c50f8b0dcad47488052192/mc/position/campus?projectCode=106001&showProjectBanner=true",
+    "family": "hotjob_wecruit",
+    "host": "wecruit.hotjob.cn",
+    "hints": [
+      "position/campus",
+      "school.html",
+      "enterprise ATS"
+    ]
+  },
+  {
+    "company": "海信集团",
+    "industry": "科技",
+    "status": "结束",
+    "url": "https://jobs.hisense.com/7/jobs",
+    "family": "ats_custom",
+    "host": "jobs.hisense.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "云深处科技",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://app135149.dingtalkoxm.com/campus-recruitment/yunshenchu/100000136?locale=zh-CN#/",
+    "family": "ats_custom",
+    "host": "app135149.dingtalkoxm.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "懂车帝",
+    "industry": "互联网",
+    "status": "暂无合适岗位",
+    "url": "https://dcar.jobs.feishu.cn/campus/?sessionid=",
+    "family": "feishu_jobs",
+    "host": "dcar.jobs.feishu.cn",
+    "hints": [
+      "position/list",
+      "current/limit pagination",
+      "SPA list/detail"
+    ]
+  },
+  {
+    "company": "韶音科技",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://app.mokahr.com/campus-recruitment/aftershokzhr/36940?sessionid=#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "hints": [
+      "hash router",
+      "campus-recruitment",
+      "jobs list",
+      "detail route"
+    ]
+  },
+  {
+    "company": "百度",
+    "industry": "互联网",
+    "status": "初筛",
+    "url": "https://talent.baidu.com/jobs/list",
+    "family": "ats_custom",
+    "host": "talent.baidu.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "蚂蚁集团",
+    "industry": "互联网",
+    "status": "暂无合适岗位",
+    "url": "https://hrrecommend.antgroup.com/job-list.html?code=RI2D8Qo_53mjwttzQKtL6z1ZIgy8ysp5ZdhFF3N6Hoo%3D",
+    "family": "ats_custom",
+    "host": "hrrecommend.antgroup.com",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "三未信安",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://sansec.zhiye.com/campus",
+    "family": "beisen_zhiye",
+    "host": "sansec.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "卫宁健康",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://mp.weixin.qq.com/s/ulfbeXte8r2KHogOpBTN7g?scene=1&click_id=47",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "hints": [
+      "article text",
+      "external application link discovery",
+      "not a direct ATS list"
+    ]
+  },
+  {
+    "company": "凯捷中国",
+    "industry": "科技,外企",
+    "status": "初筛",
+    "url": "https://v.wjx.cn/vm/ryU3Kv3.aspx",
+    "family": "external_form",
+    "host": "v.wjx.cn",
+    "hints": [
+      "form or third-party job board",
+      "usually not a direct ATS list"
+    ]
+  },
+  {
+    "company": "航天一院",
+    "industry": "央国企",
+    "status": "初筛",
+    "url": "https://m.zhaopin.com/xiaoyuan/company/detail?number=KA0133192447P90000003000&srccode=644201",
+    "family": "external_form",
+    "host": "m.zhaopin.com",
+    "hints": [
+      "form or third-party job board",
+      "usually not a direct ATS list"
+    ]
+  },
+  {
+    "company": "宇树科技",
+    "industry": "科技",
+    "status": "暂无合适岗位",
+    "url": "https://unitree.zhiye.com/",
+    "family": "beisen_zhiye",
+    "host": "unitree.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "三一集团",
+    "industry": "制造业",
+    "status": "初筛",
+    "url": "https://sany.zhiye.com/campus/jobs?LocId=%5B%7B%22id%22%3A%221100%22%2C%22label%22%3A%22%E5%8C%97%E4%BA%AC%E5%B8%82%22%7D%5D",
+    "family": "beisen_zhiye",
+    "host": "sany.zhiye.com",
+    "hints": [
+      "campus/jobs",
+      "same-page detail",
+      "job code like J12884"
+    ]
+  },
+  {
+    "company": "海尔智家",
+    "industry": "科技",
+    "status": "初筛",
+    "url": "https://maker.haier.net/client/campusmobile/customizedjobs/type/top.html?sessionid=",
+    "family": "ats_custom",
+    "host": "maker.haier.net",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  },
+  {
+    "company": "三环集团",
+    "industry": "制造业",
+    "status": "暂无合适岗位",
+    "url": "https://hr.cctc.cc",
+    "family": "ats_custom",
+    "host": "hr.cctc.cc",
+    "hints": [
+      "custom careers site",
+      "DOM-driven generic extraction"
+    ]
+  }
+]

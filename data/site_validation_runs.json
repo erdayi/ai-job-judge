@@ -1,0 +1,2145 @@
+[
+  {
+    "inventory_order": 1,
+    "company": "中国航天科工",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/yTLw8hN6GF26vSZy8zekEw",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/yTLw8hN6GF26vSZy8zekEw",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795754,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 2,
+    "company": "诺亚控股",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/KLmrx-mrAFuyEq8oRNfy1g?scene=1&click_id=1504",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/KLmrx-mrAFuyEq8oRNfy1g?scene=1&click_id=1504",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795836,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 3,
+    "company": "中科光电",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/hdzn/151324?locale=zh-CN#/jobs?zhineng%5B0%5D=209066",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 4,
+    "company": "京东方",
+    "family": "ats_custom",
+    "host": "campus.boe.com",
+    "url": "https://campus.boe.com/custom/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://campus.boe.com/custom/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "京东方科技集团股份有限公司",
+      "content_length": 64226,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 5,
+    "company": "内蒙古农商银行",
+    "family": "ats_custom",
+    "host": "nmnshxy2026.hersingdat.com",
+    "url": "https://nmnshxy2026.hersingdat.com/",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://nmnshxy2026.hersingdat.com/",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "内蒙古农村商业银行股份有限公司2026年度校园招聘",
+      "content_length": 22728,
+      "signals": [
+        "pagination",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 6,
+    "company": "科大讯飞",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/OEW0DyGsAZUxlUtEWfUwvQ",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/OEW0DyGsAZUxlUtEWfUwvQ",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795784,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 7,
+    "company": "开立医疗",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/sonoscape/94392/#/",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 8,
+    "company": "镭目科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/zLiUEigJl1iApPnE6EpBDw?scene=1&click_id=1344",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/zLiUEigJl1iApPnE6EpBDw?scene=1&click_id=1344",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 794772,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 9,
+    "company": "穹彻智能（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/LR6BvAhbjuMPc4GtYQGkug?scene=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/LR6BvAhbjuMPc4GtYQGkug?scene=1",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795900,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 10,
+    "company": "中兴通讯",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/zte/46903#/jobs?project=100120257",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 11,
+    "company": "乐元素",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 12,
+    "company": "长飞光纤",
+    "family": "beisen_zhiye",
+    "host": "yofc2.zhiye.com",
+    "url": "https://yofc2.zhiye.com/campus/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://yofc2.zhiye.com/campus/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "长飞光纤光缆股份有限公司 27届校招",
+      "content_length": 18001,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 13,
+    "company": "杭州新中大",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/OD0N30qrrUgW-9UspxjnsA?scene=1&click_id=1278",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/OD0N30qrrUgW-9UspxjnsA?scene=1&click_id=1278",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796000,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 14,
+    "company": "必易微",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/KM8M5MLyPnkMNWhc3MuQ3g?scene=1&click_id=1277",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/KM8M5MLyPnkMNWhc3MuQ3g?scene=1&click_id=1277",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795792,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 15,
+    "company": "掌趣科技",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/ourpalm/43628#/job/0289ff68-d764-4c22-bfe7-f368cbbb2263",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 16,
+    "company": "科华集团",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/kehua/92510#/page/%E6%A0%A1%E6%8B%9B%E8%81%8C%E4%BD%8D",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 17,
+    "company": "中国电信天翼云",
+    "family": "hotjob_wecruit",
+    "host": "wecruit.hotjob.cn",
+    "url": "https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://wecruit.hotjob.cn/SU62b2ae672f9d24458d72f9cc/pb/school.html",
+      "content_type": "text/html; charset=utf-8",
+      "title": "",
+      "content_length": 3738,
+      "signals": [
+        "hotjob_wecruit",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 18,
+    "company": "小马智行（人才计划）",
+    "family": "feishu_jobs",
+    "host": "ponyai.jobs.feishu.cn",
+    "url": "https://ponyai.jobs.feishu.cn/ponycampus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://ponyai.jobs.feishu.cn/ponycampus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "小马智行校园招聘",
+      "content_length": 125153,
+      "signals": [
+        "moka",
+        "beisen_zhiye",
+        "feishu_jobs",
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 19,
+    "company": "航天科技集团",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/z3LM4t-hkE0QJj_YXBilUw?scene=1&click_id=1225",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/z3LM4t-hkE0QJj_YXBilUw?scene=1&click_id=1225",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796012,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 20,
+    "company": "联合飞机",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/7L_3_kHppSb4si2x1aYP0Q?scene=1&click_id=1199",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/7L_3_kHppSb4si2x1aYP0Q?scene=1&click_id=1199",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795382,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 21,
+    "company": "能良电商",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/LYM7hdZ9iW3tMA9uZffCEw",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/LYM7hdZ9iW3tMA9uZffCEw",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796050,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 22,
+    "company": "中核—中国中原对外工程有限公司",
+    "family": "beisen_zhiye",
+    "host": "cnnc.m.zhiye.com",
+    "url": "https://cnnc.m.zhiye.com/joblist.html?jc=2&ky=&pi=1&ps=10&c1=&c2=1_162&c=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://cnnc.m.zhiye.com/joblist.html?jc=2&ky=&pi=1&ps=10&c1=&c2=1_162&c=",
+      "content_type": "text/html",
+      "title": "中核集团招聘",
+      "content_length": 25762,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 23,
+    "company": "中建八局集团",
+    "family": "ats_custom",
+    "host": "job.cscec8b.com.cn",
+    "url": "https://job.cscec8b.com.cn/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://job.cscec8b.com.cn/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "中国建筑第八工程局有限公司",
+      "content_length": 4172,
+      "signals": [
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 24,
+    "company": "联发科技",
+    "family": "beisen_zhiye",
+    "host": "mediatek.zhiye.com",
+    "url": "https://mediatek.zhiye.com/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mediatek.zhiye.com/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "联发科技招聘",
+      "content_length": 15842,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 25,
+    "company": "大疆",
+    "family": "ats_custom",
+    "host": "apply.careers.dji.com",
+    "url": "https://apply.careers.dji.com/campus-recruitment/dji/143359?locale=zh-CN#/?page=1&pageSize=30",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 26,
+    "company": "欧普照明",
+    "family": "hotjob_wecruit",
+    "host": "wecruit.hotjob.cn",
+    "url": "https://wecruit.hotjob.cn/SU646ed9920dcad45af14821b4/mc/position/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://wecruit.hotjob.cn/SU646ed9920dcad45af14821b4/mc/position/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "",
+      "content_length": 4053,
+      "signals": [
+        "hotjob_wecruit"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 27,
+    "company": "新凯来",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/LCZtpuXbu6uumZmNFg7AZA?scene=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/LCZtpuXbu6uumZmNFg7AZA?scene=1",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796144,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 28,
+    "company": "固胜科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/zuap56bn_5aTm3FuZ1Rg5w",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/zuap56bn_5aTm3FuZ1Rg5w",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796028,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 29,
+    "company": "华夏航空",
+    "family": "beisen_zhiye",
+    "host": "hxhk.zhiye.com",
+    "url": "https://hxhk.zhiye.com/campus/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://hxhk.zhiye.com/campus/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "华夏航空股份有限公司",
+      "content_length": 14165,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 30,
+    "company": "自变量机器人",
+    "family": "feishu_jobs",
+    "host": "x2-robot.jobs.feishu.cn",
+    "url": "https://x2-robot.jobs.feishu.cn/912130/position/list?keywords=&category=&location=&project=7650350869535869227&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://x2-robot.jobs.feishu.cn/912130/position/list?keywords=&category=&location=&project=7650350869535869227&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "加入自变量机器人 | 校园招聘",
+      "content_length": 136218,
+      "signals": [
+        "moka",
+        "beisen_zhiye",
+        "feishu_jobs",
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 31,
+    "company": "智元机器人（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/YtVOtxKeyXX7IH6bL_4Y5A",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/YtVOtxKeyXX7IH6bL_4Y5A",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 784222,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 32,
+    "company": "它石智航（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/Fa164U5Atgslp3861-TGnQ?scene=1&click_id=484",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/Fa164U5Atgslp3861-TGnQ?scene=1&click_id=484",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795772,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 33,
+    "company": "上海中建东孚公司",
+    "family": "ats_custom",
+    "host": "job.cscec8b.com.cn",
+    "url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://job.cscec8b.com.cn/recruitment/job/detail/id/2776",
+      "content_type": "text/html; charset=utf-8",
+      "title": "东孚公司2027届校园招聘 - 中国建筑第八工程局有限公司",
+      "content_length": 14188,
+      "signals": [
+        "pagination",
+        "detail_link"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 34,
+    "company": "中车株洲电机",
+    "family": "beisen_zhiye",
+    "host": "crrczzs.zhiye.com",
+    "url": "https://crrczzs.zhiye.com/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://crrczzs.zhiye.com/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "中车株洲电力机车研究所有限公司",
+      "content_length": 39030,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 35,
+    "company": "普渡机器人",
+    "family": "beisen_zhiye",
+    "host": "pudutech.zhiye.com",
+    "url": "https://pudutech.zhiye.com/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://pudutech.zhiye.com/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "普渡机器人招聘",
+      "content_length": 21947,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 36,
+    "company": "BCG（中国）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/pG8ZfkWVigYQDxOcnTHsUg?scene=1&click_id=469",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/pG8ZfkWVigYQDxOcnTHsUg?scene=1&click_id=469",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 793598,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 37,
+    "company": "阿里巴巴（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/5phiRqiTz7RqzGy8SDf3gg?scene=1&click_id=457",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/5phiRqiTz7RqzGy8SDf3gg?scene=1&click_id=457",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796114,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 38,
+    "company": "拓竹科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/NRXtFGt3MXRKgs-zzZjFqg?scene=1&click_id=455",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/NRXtFGt3MXRKgs-zzZjFqg?scene=1&click_id=455",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 791306,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 39,
+    "company": "卓驭（人才计划）",
+    "family": "ats_custom",
+    "host": "we.zyt.com",
+    "url": "https://we.zyt.com/5/jobs?sessionid=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://we.zyt.com/5/jobs?sessionid=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "深圳市卓驭科技有限公司",
+      "content_length": 21460,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 40,
+    "company": "哔哩哔哩",
+    "family": "ats_custom",
+    "host": "jobs.bilibili.com",
+    "url": "https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://jobs.bilibili.com/campus/positions?channel=bilibiliaccounts",
+      "content_type": "text/html",
+      "title": "哔哩哔哩-招聘",
+      "content_length": 4520,
+      "signals": [
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 41,
+    "company": "四维图新",
+    "family": "beisen_zhiye",
+    "host": "navinfo102.zhiye.com",
+    "url": "https://navinfo102.zhiye.com/campus/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://navinfo102.zhiye.com/campus/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "四维总门户",
+      "content_length": 11396,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 42,
+    "company": "惠普",
+    "family": "ats_custom",
+    "host": "apply.hp.com",
+    "url": "https://apply.hp.com/careers?start=0&pid=41922401&sort_by=timestamp&filter_seniority=graduate",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://apply.hp.com/careers?start=0&pid=41922401&sort_by=timestamp&filter_seniority=graduate",
+      "content_type": "text/html; charset=utf-8",
+      "title": "【27卒対象】サプライチェーン担当/Business Operations Analyst | HP",
+      "content_length": 403972,
+      "signals": [
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 43,
+    "company": "艾为电子",
+    "family": "beisen_zhiye",
+    "host": "awinic.zhiye.com",
+    "url": "https://awinic.zhiye.com/?sessionid=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://awinic.zhiye.com/?sessionid=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "艾为电子|中国数模龙头|艾为招聘",
+      "content_length": 38545,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 44,
+    "company": "库玛科技",
+    "family": "feishu_jobs",
+    "host": "mammotion.jobs.feishu.cn",
+    "url": "https://mammotion.jobs.feishu.cn/campus_recruitment/position/list?project=7611843487977654537",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mammotion.jobs.feishu.cn/campus_recruitment/position/list?project=7611843487977654537",
+      "content_type": "text/html; charset=utf-8",
+      "title": "加入深圳库犸科技有限公司",
+      "content_length": 171705,
+      "signals": [
+        "beisen_zhiye",
+        "feishu_jobs",
+        "pagination",
+        "detail_link",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 45,
+    "company": "博世",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/bosch/73873#/jobs?keyword=2027%E6%A0%A1%E6%8B%9B",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 46,
+    "company": "软通动力",
+    "family": "ats_custom",
+    "host": "career.isoftstone.com",
+    "url": "https://career.isoftstone.com/talent/htmls/xiaoyuanzhaopin/index.html",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://career.isoftstone.com/talent/htmls/xiaoyuanzhaopin/index.html",
+      "content_type": "text/html",
+      "title": "isoftstone软通动力-人才招聘",
+      "content_length": 54500,
+      "signals": [
+        "wechat_article",
+        "pagination",
+        "detail_link"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 47,
+    "company": "中国电科第十四研究所",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/lqZMq0oPNHeqasWwZY5Lgw?scene=1&click_id=423",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/lqZMq0oPNHeqasWwZY5Lgw?scene=1&click_id=423",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796108,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 48,
+    "company": "中国电科第十研究所",
+    "family": "ats_custom",
+    "host": "cetc.iguopin.com",
+    "url": "https://cetc.iguopin.com/job-campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://cetc.iguopin.com/job-campus",
+      "content_type": "text/html",
+      "title": "招聘官网",
+      "content_length": 592,
+      "signals": []
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 49,
+    "company": "云象机器人",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/Y2WjDpk52xezGcrmgteqiQ?scene=1&click_id=400",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/Y2WjDpk52xezGcrmgteqiQ?scene=1&click_id=400",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796022,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 50,
+    "company": "代塔供应链",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/oiuQlCDxIGovilgzjDlIqQ?scene=1&click_id=390",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/oiuQlCDxIGovilgzjDlIqQ?scene=1&click_id=390",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796050,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 51,
+    "company": "vivo（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/0KlCGXBMwxbU2NquqE6eQw?scene=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/0KlCGXBMwxbU2NquqE6eQw?scene=1",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 793164,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 52,
+    "company": "牧原",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/BKMC3SHRH65x48d6_CumaA?scene=1&click_id=366",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/BKMC3SHRH65x48d6_CumaA?scene=1&click_id=366",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796274,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 53,
+    "company": "龙蟠科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/wdA3reFkAkCV3uuXWy0H1Q?scene=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/wdA3reFkAkCV3uuXWy0H1Q?scene=1",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 793216,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 54,
+    "company": "北京国望光学科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/P7v0alwzLWnwD041R-Ipow?scene=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/P7v0alwzLWnwD041R-Ipow?scene=1",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795996,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 55,
+    "company": "上海电气",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/wKttLoGxZOWIA5Cr5vYfaA",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/wKttLoGxZOWIA5Cr5vYfaA",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795954,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 56,
+    "company": "是为科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/OB_FDFcVt2LteSslt8w53g?scene=1&click_id=343",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/OB_FDFcVt2LteSslt8w53g?scene=1&click_id=343",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 792848,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 57,
+    "company": "游族网络",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/frovjpGTxw00M5mpeAN4VQ",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/frovjpGTxw00M5mpeAN4VQ",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796298,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 58,
+    "company": "禾赛科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/iiP1Ap4JW3i48TM9-se6Iw",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/iiP1Ap4JW3i48TM9-se6Iw",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796248,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 59,
+    "company": "中电锦江",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/Vf_rAneDi62eISDVjnijkw?scene=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/Vf_rAneDi62eISDVjnijkw?scene=1",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795962,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 60,
+    "company": "米哈游（llm方向）",
+    "family": "ats_custom",
+    "host": "jobs.mihoyo.com",
+    "url": "https://jobs.mihoyo.com/#/campus/position/8785",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://jobs.mihoyo.com/#/campus/position/8785",
+      "content_type": "text/html; charset=utf-8",
+      "title": "miHoYo招聘官网",
+      "content_length": 1456,
+      "signals": []
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 61,
+    "company": "上海宇量昇",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/DnsN8K3oI2Xl5p_Lhj590A?scene=1&click_id=284",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/DnsN8K3oI2Xl5p_Lhj590A?scene=1&click_id=284",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796284,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 62,
+    "company": "中铁设计集团",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/AYkr0nHEyVkcatHBrLl8Ng?scene=1&click_id=252",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/AYkr0nHEyVkcatHBrLl8Ng?scene=1&click_id=252",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 793173,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 63,
+    "company": "科大讯飞（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/vmh4sa_HA_0jJCq0nngJRA?scene=1&click_id=205",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/vmh4sa_HA_0jJCq0nngJRA?scene=1&click_id=205",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795668,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 64,
+    "company": "安必平",
+    "family": "feishu_jobs",
+    "host": "anbiping.jobs.feishu.cn",
+    "url": "https://anbiping.jobs.feishu.cn/index/?keywords=&category=&location=&project=7639283695312554259&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://anbiping.jobs.feishu.cn/index/?keywords=&category=&location=&project=7639283695312554259&type=&job_hot_flag=&current=1&limit=10&functionCategory=&tag=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "加入安必平集团",
+      "content_length": 119161,
+      "signals": [
+        "moka",
+        "beisen_zhiye",
+        "feishu_jobs",
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 65,
+    "company": "中国科学院光电技术研究所",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/ZlSb1jOeyY6ld1NbQwbiZg",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/ZlSb1jOeyY6ld1NbQwbiZg",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 786736,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 66,
+    "company": "中国天楹",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/so7zsBb_A0Zy_Qo0VluIIQ",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/so7zsBb_A0Zy_Qo0VluIIQ",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795722,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 67,
+    "company": "杰瑞集团",
+    "family": "ats_custom",
+    "host": "future.jereh.com",
+    "url": "https://future.jereh.com/campus/jobs?memory=%7B%7D&silence=1",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://future.jereh.com/campus/jobs?memory=%7B%7D&silence=1",
+      "content_type": "text/html; charset=utf-8",
+      "title": "社会招聘_校园招聘 —杰瑞集团招聘官网",
+      "content_length": 21340,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 68,
+    "company": "航空工业通飞",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/xEJCfP5Bl_kC-cQo84Gb_A",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/xEJCfP5Bl_kC-cQo84Gb_A",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795545,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 69,
+    "company": "中国汽车技术研究中心",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/6gFAYRnHtyiGKJqZkMSTqA",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/6gFAYRnHtyiGKJqZkMSTqA",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796010,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 70,
+    "company": "中国平安",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/OGTRehNcDZgKaNosQ-aIvw",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/OGTRehNcDZgKaNosQ-aIvw",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796122,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 71,
+    "company": "精进电动",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/ixbn4WXqkjKj75m98ukvHA?scene=1&click_id=166",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/ixbn4WXqkjKj75m98ukvHA?scene=1&click_id=166",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795894,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 72,
+    "company": "长江存储",
+    "family": "beisen_zhiye",
+    "host": "ymtc-campus.zhiye.com",
+    "url": "https://ymtc-campus.zhiye.com/campus/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://ymtc-campus.zhiye.com/campus/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "长江存储—校招",
+      "content_length": 52247,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 73,
+    "company": "海克斯康",
+    "family": "hotjob_wecruit",
+    "host": "hexagonhms.hotjob.cn",
+    "url": "https://hexagonhms.hotjob.cn/",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://hexagonhms.hotjob.cn/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "招聘官网",
+      "content_length": 3520,
+      "signals": [
+        "hotjob_wecruit"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 74,
+    "company": "中铁二院",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/dnmyS1l2IMaTqunbsISI2w?scene=1&click_id=73",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/dnmyS1l2IMaTqunbsISI2w?scene=1&click_id=73",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795328,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 75,
+    "company": "中铁第四勘察设计院",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/Sbd3pxyYVugQkfsIZvnOCw",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/Sbd3pxyYVugQkfsIZvnOCw",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795390,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 76,
+    "company": "工大卫星",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/KWBu6Bo_l1bAHRpwEfc_Nw?scene=1&click_id=56",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/KWBu6Bo_l1bAHRpwEfc_Nw?scene=1&click_id=56",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796286,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 77,
+    "company": "新意科技",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/-QRqs07m4wEziNzdduNmNQ?scene=1&click_id=89",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/-QRqs07m4wEziNzdduNmNQ?scene=1&click_id=89",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 796104,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 78,
+    "company": "星图测控",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/BIN95z6M_WQzbgy_esb05A?scene=1&click_id=57",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/BIN95z6M_WQzbgy_esb05A?scene=1&click_id=57",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795976,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 79,
+    "company": "群核科技（公众战略人才计划）",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus_apply/qunhemail/2832#/job/c204257b-1827-4874-8ba3-436334e4d21d",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 80,
+    "company": "sharpa",
+    "family": "feishu_jobs",
+    "host": "fcn5hvc5qbfs.jobs.feishu.cn",
+    "url": "https://fcn5hvc5qbfs.jobs.feishu.cn/668262/?spread=A2B3G4G",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://fcn5hvc5qbfs.jobs.feishu.cn/668262/?spread=A2B3G4G",
+      "content_type": "text/html; charset=utf-8",
+      "title": "加入Sharpa Robotics",
+      "content_length": 122304,
+      "signals": [
+        "moka",
+        "beisen_zhiye",
+        "feishu_jobs",
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 81,
+    "company": "东芯半导体",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/3Jh5YexL980PlyjgZWy6mg?scene=1&click_id=90",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/3Jh5YexL980PlyjgZWy6mg?scene=1&click_id=90",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795634,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 82,
+    "company": "小米（人才计划）",
+    "family": "ats_custom",
+    "host": "hr.xiaomi.com",
+    "url": "https://hr.xiaomi.com/toptalent?sessionid=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://hr.xiaomi.com/toptalent?sessionid=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "小米招聘",
+      "content_length": 2041,
+      "signals": [
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 83,
+    "company": "万得wind",
+    "family": "ats_custom",
+    "host": "wcms.wind.com.cn:9006",
+    "url": "https://wcms.wind.com.cn:9006/wcmsweb/recruitH5/#/position/detail?id=37&projectID=4170&type=9002",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://wcms.wind.com.cn:9006/wcmsweb/recruitH5/#/position/detail?id=37&projectID=4170&type=9002",
+      "content_type": "text/html",
+      "title": "",
+      "content_length": 443,
+      "signals": [
+        "detail_link"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 84,
+    "company": "美团（人才计划）",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/g-8j7uMH3FSWdrVLiJ5fXQ",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/g-8j7uMH3FSWdrVLiJ5fXQ",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 793960,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 85,
+    "company": "金凤科技",
+    "family": "beisen_zhiye",
+    "host": "goldwind2.zhiye.com",
+    "url": "https://goldwind2.zhiye.com/campus/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://goldwind2.zhiye.com/campus/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "金风科技",
+      "content_length": 50542,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 86,
+    "company": "Meshy",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/social-recruitment/taichi/148086?locale=en-US#/",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 87,
+    "company": "长鑫存储",
+    "family": "beisen_zhiye",
+    "host": "cxmt.zhiye.com",
+    "url": "https://cxmt.zhiye.com/campus/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://cxmt.zhiye.com/campus/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "长鑫存储技术有限公司",
+      "content_length": 15025,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 88,
+    "company": "TP-LINK",
+    "family": "ats_custom",
+    "host": "hr.tp-link.com.cn",
+    "url": "https://hr.tp-link.com.cn/?sessionid=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://hr.tp-link.com.cn/?sessionid=",
+      "content_type": "text/html",
+      "title": "TP-LINK 招聘",
+      "content_length": 618,
+      "signals": [
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 89,
+    "company": "知乎",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus_apply/zhihu/68321#/jobs?zhineng%5B0%5D=131503&page=1&_k=1ggyui",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 90,
+    "company": "歌尔股份",
+    "family": "hotjob_wecruit",
+    "host": "wecruit.hotjob.cn",
+    "url": "https://wecruit.hotjob.cn/SU63c50f8b0dcad47488052192/mc/position/campus?projectCode=106001&showProjectBanner=true",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://wecruit.hotjob.cn/SU63c50f8b0dcad47488052192/mc/position/campus?projectCode=106001&showProjectBanner=true",
+      "content_type": "text/html; charset=utf-8",
+      "title": "",
+      "content_length": 4053,
+      "signals": [
+        "hotjob_wecruit"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 91,
+    "company": "海信集团",
+    "family": "ats_custom",
+    "host": "jobs.hisense.com",
+    "url": "https://jobs.hisense.com/7/jobs",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://jobs.hisense.com/7/jobs",
+      "content_type": "text/html; charset=utf-8",
+      "title": "海信招聘—海信集团招聘官网",
+      "content_length": 17986,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 92,
+    "company": "云深处科技",
+    "family": "ats_custom",
+    "host": "app135149.dingtalkoxm.com",
+    "url": "https://app135149.dingtalkoxm.com/campus-recruitment/yunshenchu/100000136?locale=zh-CN#/",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 93,
+    "company": "懂车帝",
+    "family": "feishu_jobs",
+    "host": "dcar.jobs.feishu.cn",
+    "url": "https://dcar.jobs.feishu.cn/campus/?sessionid=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://dcar.jobs.feishu.cn/campus/?sessionid=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "懂车帝招聘",
+      "content_length": 137470,
+      "signals": [
+        "moka",
+        "beisen_zhiye",
+        "feishu_jobs",
+        "pagination",
+        "detail_link",
+        "login_gate",
+        "job_text"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 94,
+    "company": "韶音科技",
+    "family": "moka",
+    "host": "app.mokahr.com",
+    "url": "https://app.mokahr.com/campus-recruitment/aftershokzhr/36940?sessionid=#/page/%E6%A0%A1%E5%9B%AD%E6%8B%9B%E8%81%98",
+    "status": "browser_required",
+    "evidence": {
+      "status": "browser_required",
+      "http_status": 302,
+      "reason": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nFound"
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 95,
+    "company": "百度",
+    "family": "ats_custom",
+    "host": "talent.baidu.com",
+    "url": "https://talent.baidu.com/jobs/list",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://talent.baidu.com/jobs/list",
+      "content_type": "text/html; charset=utf-8",
+      "title": "百度校园招聘",
+      "content_length": 58236,
+      "signals": [
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 96,
+    "company": "蚂蚁集团",
+    "family": "ats_custom",
+    "host": "hrrecommend.antgroup.com",
+    "url": "https://hrrecommend.antgroup.com/job-list.html?code=RI2D8Qo_53mjwttzQKtL6z1ZIgy8ysp5ZdhFF3N6Hoo%3D",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://hrrecommend.antgroup.com/job-list.html?code=RI2D8Qo_53mjwttzQKtL6z1ZIgy8ysp5ZdhFF3N6Hoo%3D",
+      "content_type": "text/html; charset=utf-8",
+      "title": "职位列表",
+      "content_length": 12703,
+      "signals": [
+        "pagination",
+        "detail_link"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 97,
+    "company": "三未信安",
+    "family": "beisen_zhiye",
+    "host": "sansec.zhiye.com",
+    "url": "https://sansec.zhiye.com/campus",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://sansec.zhiye.com/campus",
+      "content_type": "text/html; charset=utf-8",
+      "title": "三未信安",
+      "content_length": 33266,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 98,
+    "company": "卫宁健康",
+    "family": "wechat_article",
+    "host": "mp.weixin.qq.com",
+    "url": "https://mp.weixin.qq.com/s/ulfbeXte8r2KHogOpBTN7g?scene=1&click_id=47",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://mp.weixin.qq.com/s/ulfbeXte8r2KHogOpBTN7g?scene=1&click_id=47",
+      "content_type": "text/html; charset=UTF-8",
+      "title": "",
+      "content_length": 795376,
+      "signals": [
+        "wechat_article",
+        "pagination"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 99,
+    "company": "凯捷中国",
+    "family": "external_form",
+    "host": "v.wjx.cn",
+    "url": "https://v.wjx.cn/vm/ryU3Kv3.aspx",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://v.wjx.cn/vm/ryU3Kv3.aspx",
+      "content_type": "text/html; charset=utf-8",
+      "title": "凯捷中国27届校招宣讲简历投递",
+      "content_length": 83558,
+      "signals": [
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 100,
+    "company": "航天一院",
+    "family": "external_form",
+    "host": "m.zhaopin.com",
+    "url": "https://m.zhaopin.com/xiaoyuan/company/detail?number=KA0133192447P90000003000&srccode=644201",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://m.zhaopin.com/xiaoyuan/company/detail?number=KA0133192447P90000003000&srccode=644201",
+      "content_type": "text/html",
+      "title": "Security Verification",
+      "content_length": 1918,
+      "signals": [
+        "detail_link"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 101,
+    "company": "宇树科技",
+    "family": "beisen_zhiye",
+    "host": "unitree.zhiye.com",
+    "url": "https://unitree.zhiye.com/",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://unitree.zhiye.com/",
+      "content_type": "text/html; charset=utf-8",
+      "title": "宇树科技",
+      "content_length": 45579,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 102,
+    "company": "三一集团",
+    "family": "beisen_zhiye",
+    "host": "sany.zhiye.com",
+    "url": "https://sany.zhiye.com/campus/jobs?LocId=%5B%7B%22id%22%3A%221100%22%2C%22label%22%3A%22%E5%8C%97%E4%BA%AC%E5%B8%82%22%7D%5D",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://sany.zhiye.com/campus/jobs?LocId=%5B%7B%22id%22%3A%221100%22%2C%22label%22%3A%22%E5%8C%97%E4%BA%AC%E5%B8%82%22%7D%5D",
+      "content_type": "text/html; charset=utf-8",
+      "title": "三一集团有限公司",
+      "content_length": 21648,
+      "signals": [
+        "beisen_zhiye",
+        "pagination",
+        "detail_link",
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 103,
+    "company": "海尔智家",
+    "family": "ats_custom",
+    "host": "maker.haier.net",
+    "url": "https://maker.haier.net/client/campusmobile/customizedjobs/type/top.html?sessionid=",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://maker.haier.net/client/campusmobile/customizedjobs/type/top.html?sessionid=",
+      "content_type": "text/html; charset=utf-8",
+      "title": "海尔招聘-海尔官方招聘网站",
+      "content_length": 9898,
+      "signals": [
+        "login_gate"
+      ]
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  },
+  {
+    "inventory_order": 104,
+    "company": "三环集团",
+    "family": "ats_custom",
+    "host": "hr.cctc.cc",
+    "url": "https://hr.cctc.cc",
+    "status": "fetched",
+    "evidence": {
+      "status": "fetched",
+      "http_status": 200,
+      "final_url": "https://hr.cctc.cc",
+      "content_type": "text/html",
+      "title": "三环集团招聘",
+      "content_length": 1706,
+      "signals": []
+    },
+    "validated_at": "2026-07-02T00:41:16"
+  }
+]

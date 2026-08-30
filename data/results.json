@@ -1,0 +1,2911 @@
+{
+  "6e3f400c-068c-42ea-b9df-c4364fdbe43c": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 74,
+        "decision": "recommend",
+        "title": "大模型应用研发工程师 上海 负责 RAG Agent Python 服务开发",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "核心技能命中：Python、C++、RAG、Agent、LLM",
+          "项目关键词相关：大模型"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "模型部署",
+          "推理服务"
+        ],
+        "job_url": "https://example.com/job/ai",
+        "job": {
+          "id": "fdbacd7738a7a63b",
+          "title": "大模型应用研发工程师 上海 负责 RAG Agent Python 服务开发",
+          "company": null,
+          "department": null,
+          "location": "上海",
+          "description": "大模型应用研发工程师 上海 负责 RAG Agent Python 服务开发 熟悉 C++ 优先 任职要求 Python C++ LLM",
+          "requirements": "任职要求 Python C++ LLM",
+          "skills": [
+            "大模型",
+            "RAG",
+            "Agent",
+            "Python",
+            "C++",
+            "LLM"
+          ],
+          "detail_url": "https://example.com/job/ai",
+          "apply_url": null,
+          "source_url": "https://example.com/campus",
+          "confidence": 0.85
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "bcbd65a7-0b5b-479e-88f1-806fc851f527": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 47,
+        "decision": "reject",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "核心技能命中：Java",
+          "辅助技能命中：Java"
+        ],
+        "risks": [],
+        "missing_skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Flask"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "bd2a506b44672186",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n当前进度：简历投递\n飞凡计划\n2026-06-30 22:32 投递\n查看/打印\n【飞YOUNG实习生】AI研发工程师\n当前进度：未通过，感谢同学投递讯飞\n飞YOUNG实习生\n2026-03-21 08:28 投递\n测评已完成\n查看/打印\n【飞YOUNG实习生】Java开发工程师\n当前进度：未通过，感谢同学投递讯飞\n飞YOUNG实习生\n2026-03-21 08:26 投递\n测评已完成\n查看/打印\n以下是来自其他招聘网站的投递记录\n【飞YOUNG实习生】Java开发工程师\n当前进度：未通过，感谢同学投递讯飞\n2026-03-21 08:26 投递于\n校园大使\n没有更多了~",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.5
+        }
+      },
+      {
+        "rank": 2,
+        "score": 39,
+        "decision": "reject",
+        "title": "【飞YOUNG实习生】Java开发工程师",
+        "company": null,
+        "reasons": [
+          "核心技能命中：Java",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Flask"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "2fc00e81f5c833f4",
+          "title": "【飞YOUNG实习生】Java开发工程师",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "【飞YOUNG实习生】Java开发工程师",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.5
+        }
+      },
+      {
+        "rank": 3,
+        "score": 15,
+        "decision": "reject",
+        "title": "【飞YOUNG实习生】AI研发工程师",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "46b9cd23766e48de",
+          "title": "【飞YOUNG实习生】AI研发工程师",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "【飞YOUNG实习生】AI研发工程师",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.5
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "0f295be1-6ab7-4b6c-b65f-d1852e84b4a1": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 23,
+        "decision": "reject",
+        "title": "飞凡计划-研发",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "0a6a19626327bc61",
+          "title": "飞凡计划-研发",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "首页\n校园招聘\n校招答疑\n社会招聘\n实习生招聘\n探索讯飞\n+86 198****6990\n飞凡计划-2027届\n飞凡计划是科大讯飞开设的战略级校园人才招募和培养项目，面向全球优秀的应届毕业生，致力于发掘和培养公司未来的领导者！\n毕业时间：2025年6月1日-2027年8月31日\n搜索职位\n工作地点\n不限\n合肥市\n岗位类别\n不限\n研发类\n产品类\n营销类\n发布时间\n不限\n三天内\n一周内\n一个月内\n三个月内\n半年内\n一年内\n全部职位（共 3 个）\n分享列表全部\n飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.5
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "87ef5062-f064-4d28-a3b6-19f3d11036f8": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 23,
+        "decision": "reject",
+        "title": "飞凡计划-研发",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "0a6a19626327bc61",
+          "title": "飞凡计划-研发",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "首页\n校园招聘\n校招答疑\n社会招聘\n实习生招聘\n探索讯飞\n+86 198****6990\n飞凡计划-2027届\n飞凡计划是科大讯飞开设的战略级校园人才招募和培养项目，面向全球优秀的应届毕业生，致力于发掘和培养公司未来的领导者！\n毕业时间：2025年6月1日-2027年8月31日\n搜索职位\n工作地点\n不限\n合肥市\n岗位类别\n不限\n研发类\n产品类\n营销类\n发布时间\n不限\n三天内\n一周内\n一个月内\n三个月内\n半年内\n一年内\n全部职位（共 3 个）\n分享列表全部\n飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.5
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "ce270a42-2491-4a35-991a-8a8e91554e01": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 52,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：研发"
+        ],
+        "risks": [
+          "列表信息较少，尚未看到具体技术栈，需要进入详情确认",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.example/jobs",
+        "job": {
+          "id": "46de6d9c794f0e71",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.example/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 52,
+        "decision": "maybe",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：技术"
+        ],
+        "risks": [
+          "列表信息较少，尚未看到具体技术栈，需要进入详情确认",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.example/jobs",
+        "job": {
+          "id": "f326325177021f24",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n工作职责\n飞凡计划的产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱。\n立即投递\n查看详情\n没有更多了~",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱。\n立即投递\n查看详情\n没有更多了~",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.example/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.example/jobs",
+        "job": {
+          "id": "1bf83c1b9eff9011",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.example/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "fbf8c65c-d64b-441f-be92-37c63d4954be": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 52,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：研发"
+        ],
+        "risks": [
+          "列表信息较少，尚未看到具体技术栈，需要进入详情确认",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 23,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "ee8b814d-39f3-4388-bb50-19f3e75a6e36": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 67,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发、技术",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "触发降权方向：营销"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 67,
+        "decision": "maybe",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发、技术",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "触发降权方向：营销"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 67,
+        "decision": "maybe",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发、技术",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "触发降权方向：营销"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n工作职责\n飞凡计划的产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n你将参与到C端、B端和G端产品从产品规划、市场调研、需求分析和产品交付的全生命周期，成为产品愿景和战略的关键推动者，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n工作职责\n飞凡计划的产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n你将参与到C端、B端和G端产品从产品规划、市场调研、需求分析和产品交付的全生命周期，成为产品愿景和战略的关键推动者，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情\n飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n工作职责\n飞凡计",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "732aeeed-2581-46a9-98d2-3baa3c122bf9": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 82,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发、技术",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "ab325fa5ca1e94d3",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "requirements": "任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 52,
+        "decision": "maybe",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：技术"
+        ],
+        "risks": [
+          "列表信息较少，尚未看到具体技术栈，需要进入详情确认",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "6dafdf8e8e03d805",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。\n任职资格\n良好的沟通理解和人际交往能力",
+          "requirements": "任职资格\n良好的沟通理解和人际交往能力",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "b67f24c2-1fc2-4f0a-b0b8-5e9336d7f89b": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 82,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "ab325fa5ca1e94d3",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "requirements": "任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销、客户拓展",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "6dafdf8e8e03d805",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。\n任职资格\n良好的沟通理解和人际交往能力",
+          "requirements": "任职资格\n良好的沟通理解和人际交往能力",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类、商业敏锐",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "1261773a-8a63-4303-a269-bc864669f0dc": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 85,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发、人工智能",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/detail?jobAdId=71aea93a-7e2d-4471-8912-1056c6949383",
+        "job": {
+          "id": "71ba65ed733ac05f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STJobList-editor__sc-ydltt0-0.cfhVIS",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/detail?jobAdId=71aea93a-7e2d-4471-8912-1056c6949383",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 56,
+        "decision": "maybe",
+        "title": "飞YOUNG实习生",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：开发、工程师",
+          "核心技能命中：Java",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Flask"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "f727bfcdd47a28dd",
+          "title": "飞YOUNG实习生",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞YOUNG实习生\n2026-03-21 08:28 投递\n测评已完成\n查看/打印\n【飞YOUNG实习生】Java开发工程师\n当前进度：未通过，感谢同学投递讯飞",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "section.stylest__STListRoot-editor__sc-1x4urje-0.HfecS > div.stylest__STRoot-editor__sc-6zstm6-1.kmiWFa:nth-of-type(2) > div.stylest__STContentContainer-editor__sc-6zstm6-2.iOAXjg:nth-of-type(1) > div.stylest__STFlexContainer-editor__sc-6zstm6-0.bGKlod:nth-of-type(1) > span.stylest__STJobName-editor__sc-6zstm6-4.epwHfD",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 56,
+        "decision": "maybe",
+        "title": "【飞YOUNG实习生】Java开发工程师",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：开发、工程师",
+          "核心技能命中：Java",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "FastAPI",
+          "Django",
+          "Flask"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "2fc00e81f5c833f4",
+          "title": "【飞YOUNG实习生】Java开发工程师",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "【飞YOUNG实习生】Java开发工程师",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.5
+        }
+      },
+      {
+        "rank": 4,
+        "score": 52,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：研发、工程师"
+        ],
+        "risks": [
+          "列表信息较少，尚未看到具体技术栈，需要进入详情确认",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "bd2a506b44672186",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n当前进度：简历投递\n飞凡计划\n2026-06-30 22:32 投递\n查看/打印\n【飞YOUNG实习生】AI研发工程师\n当前进度：未通过，感谢同学投递讯飞",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "section.stylest__STListRoot-editor__sc-1x4urje-0.HfecS > div.stylest__STRoot-editor__sc-6zstm6-1.cSyvYW:nth-of-type(1) > div.stylest__STContentContainer-editor__sc-6zstm6-2.iOAXjg:nth-of-type(1) > div.stylest__STFlexContainer-editor__sc-6zstm6-0.bGKlod:nth-of-type(1) > span.stylest__STJobName-editor__sc-6zstm6-4.eBEHMB",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 5,
+        "score": 52,
+        "decision": "maybe",
+        "title": "【飞YOUNG实习生】AI研发工程师",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：研发、工程师"
+        ],
+        "risks": [
+          "列表信息较少，尚未看到具体技术栈，需要进入详情确认",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+        "job": {
+          "id": "46b9cd23766e48de",
+          "title": "【飞YOUNG实习生】AI研发工程师",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "【飞YOUNG实习生】AI研发工程师",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/personal/deliveryRecord",
+          "confidence": 0.5
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "540186a5-6aa6-4e62-bc14-0ce8f533ba3f": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 85,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发、开发、人工智能",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：人工智能"
+        ],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销、客户拓展"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：人工智能"
+        ],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类、商业敏锐"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n工作职责\n飞凡计划的产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n你将参与到C端、B端和G端产品从产品规划、市场调研、需求分析和产品交付的全生命周期，成为产品愿景和战略的关键推动者，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "2137c0a6-ed76-40d9-a9df-f947323dcd7a": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 85,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销、客户拓展"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类、商业敏锐"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n工作职责\n飞凡计划的产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n你将参与到C端、B端和G端产品从产品规划、市场调研、需求分析和产品交付的全生命周期，成为产品愿景和战略的关键推动者，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科类相关专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的商业敏锐度，对不同类型互联网产品充满热爱\n4、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n5、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "ea08779c-4618-4ece-927b-e45e99c3cb24": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 78,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位类别为研发类，方向匹配 Python/C++ 研发工程师",
+          "核心技能命中 Python、Java、C++ 三项",
+          "属于科大讯飞校招项目，平台尚可",
+          "无营销/销售/产品等降权标签"
+        ],
+        "risks": [
+          "JD 描述较简短，具体技术栈和项目细节不明确",
+          "置信度 0.62，信息完整度有限"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG",
+          "LLM",
+          "Agent",
+          "Docker",
+          "Redis",
+          "PyTorch",
+          "向量数据库"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "ab325fa5ca1e94d3",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "requirements": "任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 8,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "岗位方向为营销/客户拓展，触发降权方向",
+          "未命中任何核心技能",
+          "JD 描述极简，置信度仅 0.62"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "C++",
+          "FastAPI",
+          "Django",
+          "RAG",
+          "LLM",
+          "Agent"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "6dafdf8e8e03d805",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。\n任职资格\n良好的沟通理解和人际交往能力",
+          "requirements": "任职资格\n良好的沟通理解和人际交往能力",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 8,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "岗位方向为产品类，触发降权方向",
+          "未命中任何核心技能",
+          "JD 描述极简，置信度仅 0.62"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "C++",
+          "FastAPI",
+          "Django",
+          "RAG",
+          "LLM",
+          "Agent"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "claude"
+  },
+  "f464019c-c973-400a-8d81-2230aa5c3003": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 82,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向接近：Python/C++研发工程师",
+          "岗位标题/类别偏技术研发：研发",
+          "核心技能命中：Python、Java、C++",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销、客户拓展",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类、商业敏锐",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "claude"
+  },
+  "eaba8b96-796d-4b89-9cf8-653417594178": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 82,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位方向匹配 Python/C++ 研发工程师",
+          "核心技能命中 Python、Java、C++",
+          "无营销/销售/产品等降权信号",
+          "科大讯飞飞凡计划为校招/青年人才项目"
+        ],
+        "risks": [
+          "描述较简，深度要求不明确，置信度偏低"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG",
+          "Agent",
+          "Docker",
+          "MySQL",
+          "Redis",
+          "PyTorch",
+          "向量数据库"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "触发降权方向：营销/客户拓展",
+          "未命中任何核心技能",
+          "岗位描述较短，匹配置信度低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG",
+          "LLM",
+          "Agent",
+          "Docker",
+          "MySQL",
+          "Redis",
+          "C++"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "触发降权方向：产品经理/产品方向",
+          "未命中任何核心技能",
+          "岗位描述较短，匹配置信度低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG",
+          "LLM",
+          "Agent",
+          "Docker",
+          "MySQL",
+          "Redis",
+          "C++"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "claude"
+  },
+  "11a98aeb-a2a4-42d0-a64e-122c0149deef": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 46,
+        "decision": "reject",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位标题/类别偏技术研发：研发",
+          "核心技能命中：Python、Java",
+          "辅助技能命中：Java"
+        ],
+        "risks": [
+          "触发降权方向：c/c++",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "FastAPI",
+          "Django",
+          "Flask",
+          "RAG"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "ab325fa5ca1e94d3",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "requirements": "任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销、客户拓展",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "6dafdf8e8e03d805",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。\n任职资格\n良好的沟通理解和人际交往能力",
+          "requirements": "任职资格\n良好的沟通理解和人际交往能力",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 0,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类、商业敏锐",
+          "岗位描述较短，匹配置信度较低"
+        ],
+        "missing_skills": [
+          "Python",
+          "Java",
+          "FastAPI",
+          "Django"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "heuristic"
+  },
+  "7c61c3a7-2662-433b-93e7-b6ed0e5e0afe": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 72,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": null,
+        "reasons": [
+          "岗位属于研发类，与目标角色方向匹配；JD 虽简略但至少属于技术研发岗而非营销/产品/测试",
+          "讯飞飞凡计划本身有 AI 语音及大模型业务背景，加入后有接触 LLM 应用开发的可能性",
+          "Python 和 Java 均在目标技能栈内，且 JD 中标注为可选语言（'包括但不限于'），与简历画像吻合",
+          "JD 信息过于泛化，不清楚具体是 AI 方向还是通用软件研发；且未提及任何 AI 相关技能要求，实际工作内容存在不确定性",
+          "建议投递时关注内部具体定岗方向，确认是否涉及大模型应用开发后再做决定"
+        ],
+        "risks": [
+          "JD 描述极简，无法判断具体研发内容是否为 AI 应用开发",
+          "C/C++ 虽列为可选语言之一，但飞凡计划轮岗后是否落入非 AI 方向存在不确定",
+          "公司/部门/岗位详情链接缺失，无法进一步验证岗位细节"
+        ],
+        "missing_skills": [
+          "FastAPI/Django/Flask 等 Web 框架未在 JD 中体现",
+          "RAG/LLM/Agent 等 AI 技能未在 JD 中体现",
+          "JD 描述极为简略，具体研发方向（AI/大模型？）无法确认"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "ab325fa5ca1e94d3",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "requirements": "任职资格\n热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 2,
+        "score": 50,
+        "decision": "maybe",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": null,
+        "reasons": [
+          "岗位为营销类，与简历画像目标角色（AI 应用研发/大模型应用开发/算法工程化）完全不匹配",
+          "任职资格仅要求沟通能力和人际交往能力，无任何技术技能要求",
+          "简历画像明确将营销列入 negative_directions"
+        ],
+        "risks": [
+          "完全偏离技术研发方向，投递无意义"
+        ],
+        "missing_skills": [
+          "技术能力（任何编程语言或框架）"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "6dafdf8e8e03d805",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。\n任职资格\n良好的沟通理解和人际交往能力",
+          "requirements": "任职资格\n良好的沟通理解和人际交往能力",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      },
+      {
+        "rank": 3,
+        "score": 45,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": null,
+        "reasons": [
+          "岗位为产品类，与简历画像中的三个目标角色（AI应用研发工程师、大模型应用开发工程师、算法工程化工程师）方向完全不符",
+          "任职资格仅要求商业敏锐度和产品热情，不涉及任何技术开发能力",
+          "简历画像明确将产品经理列入 negative_directions",
+          "与核心技能栈（Python/Java/FastAPI/RAG/LLM 等）无任何交集"
+        ],
+        "risks": [
+          "完全偏离技术研发方向，投递无意义"
+        ],
+        "missing_skills": [
+          "技术开发能力"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "a0ffecc1e0ad463e",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n工作职责\n产品方向岗位是连接用户需求、市场趋势和技术创新的桥梁。\n任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "requirements": "任职资格\n良好的商业敏锐度，对不同类型互联网产品充满热爱",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.62
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "52473a74-6435-4b07-96b7-5eea87fccc02": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 75,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "讯飞是 AI/语音技术头部企业，研发方向大概率涉及 AI 应用后端或算法工程化，与简历的 AI 应用研发、Agent/RAG 工程化方向高度契合。",
+          "简历核心栈（Java/Spring Boot、Python/FastAPI、Elasticsearch、Kafka、RocketMQ、Canal、Redis、Docker）与讯飞产品（智能语音、AI 应用平台）的后端基础设施需求高度重叠。",
+          "面试关注点不确定：JD 未提供具体技术栈描述，讯飞内部研发方向范围较广（从语音算法到应用后端都有可能），无法精确判断岗位是 AI 应用层还是偏底层的 C++ 算法工程。",
+          "讯飞部分研发岗确实有 C++ 主导的语音/音频方向，如果该研发岗偏底层语音引擎开发，匹配度会大幅下降——但作为校招飞凡计划的研发类岗位，按常规推断更偏工程化落地而非纯底层。"
+        ],
+        "risks": [
+          "JD 未提供具体技术栈和职责描述，无法确认是否涉及 C++/嵌入式等方向",
+          "讯飞内部研发方向广，如果该岗位偏语音算法底层（C++）则匹配度大幅下降",
+          "岗位位于合肥，需确认候选人求职意向是否包含合肥"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 30,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": "科大讯飞",
+        "reasons": [
+          "产品方向的 JD 信息极少，仅知是科大讯飞飞凡计划的产品类岗位，无法准确判断是否偏 AI 产品经理。",
+          "如果该产品岗面向 AI 产品/智能助手/AI 应用产品，候选人具备 Agent 链路、RAG 流程、AIGC 生图等一线工程实践经验，对 AI 产品设计有技术深度支撑。",
+          "简历中无明确产品经理岗位目标，且无产品设计方法论、需求管理、数据分析等产品侧经验描述，直接转产品方向存在明显gap。",
+          "候选人以 AI 应用研发为主，产品方向属于跨领域尝试，若无额外产品实践积累，优先级应低于研发方向。"
+        ],
+        "risks": [
+          "JD 缺乏具体产品职责描述，无法确认是否偏技术产品经理还是纯商业产品岗",
+          "简历无产品经理目标角色，属于跨领域尝试",
+          "产品方向缺乏需求分析、竞品调研等产品方法论经验",
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [
+          "产品需求分析",
+          "竞品调研",
+          "数据驱动决策",
+          "产品设计方法论"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 28,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位为营销类，与简历画像中所有目标角色（AI 应用研发、Agent 开发、Java/Python 后端等）完全无关。",
+          "营销岗不属于开发/工程/算法/AI 应用职责范畴，命中 negative_directions（营销属非技术方向），按规则必须 reject。",
+          "简历中无任何营销、销售、品牌推广相关经验，投递营销方向无任何匹配基础。"
+        ],
+        "risks": [
+          "营销类岗位与候选人技术背景完全不匹配，不建议投递",
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "7bb41034-0c9f-4a26-8f87-12b487038db3": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 55,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位标题仅标注'研发方向'，缺少具体的 JD 描述、技术栈要求和职责说明，无法精确判断是否匹配候选人的 AI 应用研发/Agent 开发/Java 后端等核心方向。",
+          "科大讯飞主营业务涉及 AI 语音、大模型等方向，研发岗可能涉及 AI 工程化或后端开发，与候选人的核心技能（Java/Python、RAG、Agent、消息队列、Elasticsearch 等）存在潜在交集。",
+          "不确定点：讯飞内部研发岗大量使用 C++ 做语音底层算法，如果该岗位偏向 C++/嵌入式/底层驱动，则与候选人目标不符；目前信息不足无法排除此风险。",
+          "候选人曾在阿里巴巴做 AI 生图异步任务架构和智能装修 Agent，与讯飞的 AIGC 业务可能有协同，但缺少具体 JD 无法确认。"
+        ],
+        "risks": [
+          "JD 信息极度匮乏，无法确认具体技术栈和职责范围",
+          "讯飞研发体系存在大量 C++ 底层岗位，若命中则完全不符",
+          "无法确认是否为校招/社招、具体团队方向"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 15,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": "科大讯飞",
+        "reasons": [
+          "产品类岗位，候选人的 target_roles 全部为研发/工程方向（AI 应用研发、Agent 开发、RAG、大模型工程化、Java/Python 后端），无产品经理相关技能或经验。",
+          "命中 negative_directions 中的产品经理方向。",
+          "候选人的技术栈（Java、Python、Agent 工作流设计、RAG、分布式系统等）均为工程实现能力，不涉及产品策划、需求分析、用户研究等产品岗职责。"
+        ],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 10,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": "科大讯飞",
+        "reasons": [
+          "营销类岗位，候选人的 target_roles 全部为研发/工程方向，核心技能均为技术栈（Java、Python、Agent、RAG 等），与营销/销售职能完全不匹配。",
+          "命中 negative_directions 中的营销/销售方向。",
+          "候选人在阿里巴巴做的是 AI 应用研发实习生，技术工程背景，不具备营销策划、市场推广、品牌运营等能力。"
+        ],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "f1cbeb48-4378-4dbc-ac1c-8c2673f5cd1c": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 72,
+        "decision": "recommend",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位类别为研发类，与候选人目标角色（AI应用研发/Agent开发/RAG/大模型工程化/Java&Python后端）方向一致。讯飞作为国内头部AI公司，研发方向大概率涉及AI应用、NLP或算法工程化等候选人擅长领域。",
+          "候选人合肥工业大学硕士在读，合肥本地高校；讯飞总部位于合肥，地域匹配度高。候选人在阿里淘天做过AI生图与Agent工作流落地，在腾讯优图做过3D数据聚类，Java/Python后端与AI工程化能力与讯飞业务栈有较高重合度。",
+          "不确定点：JD未给出具体技术栈、岗位职责细分和编程语言要求。讯飞部分研发岗存在C++底层/语音引擎/嵌入式部署等场景，若命中此类细分则与候选人Java/Python技术栈存在偏差，需通过宣讲或面试确认。"
+        ],
+        "risks": [
+          "JD信息极度模糊，无法确认是否涉及C++底层开发或嵌入式方向。讯飞研发方向涵盖语音引擎、嵌入式部署等非Java/Python领域，存在匹配度下降风险。",
+          "飞凡计划为校招项目，竞争激烈；候选人硕士2027年毕业，需确认该计划是否接受2027届应届生。",
+          "讯飞核心业务偏语音NLP，候选人的视觉AIGC和社交业务经验可能需要适应转换。"
+        ],
+        "missing_skills": [
+          "讯飞具体技术栈——讯飞部分产品线使用自研语音框架和C++，需确认该研发方向的技术栈。",
+          "讯飞飞凡计划研发方向的具体业务领域（NLP/语音/视觉/大模型应用）未在JD中体现。"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 20,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位类别为产品类，命中negative_directions中的产品经理方向。候选人目标角色均为研发/工程方向（AI应用研发、Agent开发、Java/Python后端），产品岗位与职业规划严重不符。",
+          "候选人无产品经理相关技能（用户调研、需求分析、PRD撰写、商业化设计等），全程技术实习和技术博客输出，产品方向无法复用核心能力。",
+          "讯飞产品岗通常偏向AI产品经理，需理解AI产品逻辑，但候选人虽有AI工程化经验，角色定位是工程实现而非产品定义，转换成本高。"
+        ],
+        "risks": [
+          "产品岗薪资体系与研发岗存在差距。",
+          "若仅因公司品牌投递产品岗，入职后角色落差大。",
+          "讯飞产品方向可能需大量跨部门沟通和商业化设计，与候选人偏好技术深耕的倾向不匹配。",
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [
+          "产品经理核心能力：需求文档、用户研究、竞品分析、数据指标体系、PRD撰写、项目里程碑管理等。"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 10,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位类别为营销类，命中negative_directions中的营销方向。候选人无任何营销/销售/品牌推广相关经验或技能，全程技术研发背景与营销岗位完全不匹配。",
+          "候选人技术栈全栈偏研发（Java/Python后端、AI工程化、Agent开发、分布式系统），与营销方向无任何交集。",
+          "JD同样信息模糊，无法判断具体营销细分，但无论哪种营销子方向均不适合候选人。",
+          "明确拒绝，不建议投递。"
+        ],
+        "risks": [
+          "营销岗职业路径与候选人目标技术方向严重偏离，入职后难以转换回研发。",
+          "讯飞营销岗可能涉及ToB销售或品牌推广，与候选人技术背景完全不匹配。",
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [
+          "营销/销售核心能力：市场分析、客户沟通、品牌推广、销售策略、商务谈判等。"
+        ],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "d922b71e-ddba-4df9-b0b2-d5067f6a4a8f": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 65,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "讯飞「飞凡计划」研发方向与候选人 AI 应用研发背景有一定关联度（公司本身在 NLP/语音 AI 领域有积累）",
+          "但该岗位 JD 极度模糊——页面仅显示标题、部门「研发类」和地点合肥，无任何 description、requirements 或技能要求可供比对",
+          "讯飞业务体系包含大量 C++ 底层语音引擎、嵌入式/IoT 开发，且 JD 未明确说明是 AI 应用层还是传统研发岗，无法确认岗位职责是否匹配候选人的 Agent/RAG/大模型工程化方向",
+          "合肥地理位置与候选人实习城市（上海）有偏差"
+        ],
+        "risks": [
+          "JD 完全空白，无法核实具体技术栈和职责",
+          "讯飞内部研发方向可能包含大量 C++ 底层/嵌入式工作，与候选人目标不符",
+          "无 detail_url 或 apply_url，无法获取进一步信息",
+          "合肥地理位置与候选人实习城市（上海）有差异"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 20,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": "科大讯飞",
+        "reasons": [
+          "营销类岗位，与候选人所有 target_roles（AI 应用研发/Agent 开发/RAG/大模型工程化/Java/Python 后端）完全无关",
+          "候选人核心技能全为研发工程类，无任何营销、市场推广相关经验"
+        ],
+        "risks": [
+          "岗位类别与候选人技能画像完全不匹配",
+          "无 detail_url 无法进一步确认是否有技术营销类子方向",
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 15,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": "科大讯飞",
+        "reasons": [
+          "产品类岗位，候选人的 target_roles 和 core_skills 均为纯研发工程方向，无产品经理相关技能或经验",
+          "negative_directions 明确包含产品经理降权"
+        ],
+        "risks": [
+          "产品经理岗位与候选人研发工程画像不匹配",
+          "候选人无产品设计、需求分析、项目管理相关经历",
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "ec90359a-15d9-4b7f-9d8c-a6bd4270e00d": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 68,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "该岗位为研发类方向，与候选人目标岗位（AI应用研发工程师、Agent开发工程师、RAG/检索增强工程师、Java/Python后端开发工程师）方向匹配，科大讯飞是国内头部AI企业，平台背景与候选人AI工程化经验契合",
+          "候选人在阿里巴巴淘天集团有AI生图异步任务架构、智能装修Agent工作流、分布式一致性治理、SSE流式AI回复等实战项目经验，与AI应用研发方向高度相关",
+          "不确定点：JD信息极简，仅标注研发类，未提供具体技术栈、项目方向或能力要求，无法确认该研发方向是否涉及AI应用开发、Agent、RAG等候选人核心技能领域",
+          "飞凡计划为校招计划，候选人2027年毕业时间线匹配，但具体培养路径和业务方向需进一步确认"
+        ],
+        "risks": [
+          "JD信息过于简略，无法确认具体技术栈和职责范围，存在投递后发现方向不匹配的风险",
+          "研发方向可能涵盖多个技术领域，不一定完全聚焦于候选人的AI工程化专长",
+          "工作地点为合肥，需确认候选人是否愿意前往"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "9ee3f216323a553f",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 25,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": "科大讯飞",
+        "reasons": [
+          "该岗位为产品经理方向，命中简历画像中的negative_directions（产品经理）",
+          "产品岗位无开发/工程/算法/AI应用职责，候选人的Java/Python后端、Agent工作流、RAG检索增强等技术专长均无法在该岗位发挥",
+          "候选人长期目标为AI应用研发和工程化方向，产品方向与职业规划严重不符"
+        ],
+        "risks": [
+          "该岗位完全偏离候选人的技术发展路径，不建议投递",
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 20,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": "科大讯飞",
+        "reasons": [
+          "该岗位为营销方向，命中简历画像中的negative_directions（营销、销售）",
+          "营销岗位无任何开发/工程/算法/AI应用职责，候选人的全部技术背景和项目经验均不适用",
+          "该岗位与候选人所有目标岗位（AI应用研发、Agent开发、RAG、大模型工程化、Java/Python后端）完全不匹配"
+        ],
+        "risks": [
+          "该岗位完全偏离候选人的技术发展路径，不建议投递",
+          "未明显命中简历核心技能",
+          "触发降权方向：营销",
+          "岗位描述较短，匹配置信度较低",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "863cb539a8813955",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "74b9d2ba-1f78-4a0a-8595-3b377398e8e7": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 55,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位在科大讯飞（国内头部 AI 公司），公司层面与简历的 AI 应用方向有一定吻合度，但 JD 本身对具体研发方向描述极泛——仅写『软件开发全流程』、『用人工智能建设美好未来』等使命性语句，未提及 Agent、RAG、LLM 工程化或任何具体技术栈。",
+          "任职资格中列出的编程语言为『包括但不限于 Java、C/C++、Python』，C/C++ 仅为可选语言之一，不应作为推荐理由；Java/Python 与简历核心技能匹配，但缺少对框架（Spring Boot、FastAPI）和中间件（Elasticsearch、Kafka 等）的要求描述。",
+          "该岗位为科大讯飞集团统一招聘的『飞凡计划』管培项目，实际分配团队和业务方向在 JD 中完全不透明，存在被分配到非 AI 应用线、甚至涉及 C++/嵌入式方向的不确定性。",
+          "候选人已投递过该职位、无法重复投递，这一点不影响评分但需在决策时留意。"
+        ],
+        "risks": [
+          "JD 未明确技术栈和业务方向，实际工作内容可能与 AI 应用研发/Agent/RAG 完全无关；",
+          "科大讯飞部分产品线涉及语音合成、嵌入式终端等 C/C++ 主导方向，与简历 negative_directions 存在潜在冲突；",
+          "『包括但不限于 C/C++』的表述意味着入职后可能被分配到 C++ 相关研发任务；",
+          "管培轮岗机制导致无法提前锁定 AI 应用方向。"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "dc53014190a648fa",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "2e8231b9-c533-4e86-83a8-ea4cc46ef0a3": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 58,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "JD描述极度模糊，仅笼统表述为'软件开发全流程'中的技术推动者和'用人工智能建设美好世界'，未具体说明业务线方向、技术栈或产品类型。候选人在阿里巴巴积累了AIGC生图异步化改造、智能装修Agent落地、SSE流式AI对话、分布式任务一致性治理等AI应用工程化实战经验，但该JD无法确认入职后是否分配到匹配AI应用研发/Agent开发/RAG工程化的业务线，实际工作内容高度不透明。",
+          "技能要求仅泛列'Java、C/C++、Python'三种语言，按规则C/C++应视为可选语言而非核心要求。JD未体现SSE流式响应、MCP协议、RAG/检索增强、Elasticsearch、Kafka、LLMStack、AIGC任务编排等候选人核心差异化技能，无法验证技术栈复用空间。",
+          "科大讯飞是国内头部AI公司，描述中提及'用人工智能建设美好世界'，有一定概率涉及AI应用研发方向。但'飞凡计划'为校园招聘培养计划，JD未给出具体产品线、技术方向或定岗路径，轮岗安排和最终岗位存在不确定性。",
+          "候选人在心识宇宙负责圈子搜索系统建设（ES全文检索+Binglog CDC实时同步，P99延迟从600ms降至120ms）、SSE流式AI回复链路（首字节响应<1s）、破冰推荐优化（AI服务调用量下降80%）；在阿里巴巴负责AI生图异步任务架构重构、分布式任务一致性治理、智能装修Agent工作流落地（MCP协议接入8项内部服务工具）——上述经验若岗位实际为Java/Python后端AI应用方向则匹配度较高，但当前JD信息不足以支撑更高评价。",
+          "未命中negative_directions，岗位为软件研发类且非C++/嵌入式/硬件/测试方向，符合基本筛选条件，但因JD泛化程度过高，无法确认与候选人AI应用研发/Agent开发/RAG工程化/Java后端/Python后端的深度契合。"
+        ],
+        "risks": [
+          "JD描述极度宽泛，入职后可能被分配到传统软件研发、测试或与AI无关的业务线，与候选人聚焦AI应用研发、Agent开发、RAG工程化的职业方向存在偏差",
+          "飞凡计划为校园招聘培养计划，轮岗方向和最终定岗高度不确定，实际工作内容无法预估",
+          "技能要求未体现任何AI-specific技术栈（LLM、Agent、RAG、SSE等），无法确认技术匹配度",
+          "未标注具体工作地点和部门归属，候选人目前在杭州，若定岗合肥需考虑地域因素"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "dc53014190a648fa",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": "https://iflytek.zhiye.com/5/jobs",
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "f1b3cbb8-1461-4c37-8443-326fcf1c0070": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 55,
+        "decision": "maybe",
+        "title": "飞凡计划-研发方向(J12884)",
+        "company": "科大讯飞",
+        "reasons": [
+          "JD 属科大讯飞集团统一校招研发岗（研发类），要求掌握 Java/C/C++/Python 等语言之一，候选人的 Java、Python 核心能力与要求直接匹配。",
+          "科大讯飞本身以 AI 技术为核心业务，与候选人「AI 应用研发 / Agent 开发 / RAG / 大模型工程化」的求职方向在行业层面存在交集。",
+          "JD 中仅出现「包括但不限于 Java、C/C++、Python 等」泛语言描述，C/C++ 只应视为可选语言，不应作为推荐依据或降权理由。",
+          "JD 工作职责部分仅写「软件开发的全流程」「用人工智能建设美好世界」等泛化表述，未具体提及 Agent 工作流、RAG 检索增强、大模型工程化、SSE 流式响应等候选人核心技能，无法确认岗位实际工作内容是否匹配候选人的 AI 应用研发专长。",
+          "候选人 2027 年 07 月硕士毕业，满足「2025-2027 届本科及以上」的应届要求。",
+          "总体判断：JD 信息过泛，无法排除岗位实际工作内容与候选人目标方向一致的可能性，但也无法确认——因此给出 maybe（50-71 区间），不推荐也不拒绝。"
+        ],
+        "risks": [
+          "JD 过于泛化，实际工作内容可能与候选人专长的 AI 应用研发 / Agent / RAG 方向不符，入职后可能被分配到非目标方向。",
+          "科大讯飞的研发岗涵盖语音识别、NLP、教育/医疗/政法等行业解决方案，若分配至非 AI 应用层或非 Web 后端工程方向，与候选人期望的职业路径偏差较大。",
+          "仅「包括但不限于 Java、C/C++、Python」无法确认候选人可选择的语言栈，若实际要求 C++ 主导或嵌入式方向，则与 negative_directions 冲突。"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "dc53014190a648fa",
+          "title": "飞凡计划-研发方向(J12884)",
+          "company": null,
+          "department": "研发类",
+          "location": null,
+          "description": "飞凡计划-研发方向(J12884)\n飞凡计划\n全职\n安徽省·合肥市\n研发类\n2026-06-30 发布\n工作职责\n飞凡计划的研发方向专注于软件开发领域，致力于将先进的技术理念转化为可落地的产品与服务。\n你将参与到软件开发的全流程中，成为技术革新和产品实现的推动者，用人工智能建设美\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，工科专业背景优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、热爱编程，熟练掌握至少一种编程语言，包括但不限于Java、C/C++、Python等；\n4、对互联网新技术充满热爱，乐于钻研，善于总结分享\n5、优秀的逻辑思维与系统分析能力、敢于创造创新，积极拥抱变化，勇于接受挑战\n6、主动学习，有强烈的自我成长的渴望\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你已投递过该职位，无法重复投递\n查看已投递记录\n已投递\n收藏\n查看详情",
+          "skills": [
+            "Java",
+            "C++",
+            "Python"
+          ],
+          "detail_url": "https://iflytek.zhiye.com/5/jobs",
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 2,
+        "score": 20,
+        "decision": "reject",
+        "title": "飞凡计划-营销方向(J12883)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位所属部门为「营销类」，工作职责描述为区域客户拓展、解决方案提供、与教育/医疗/政法等行业客户沟通，属于典型的销售/营销岗位。",
+          "明确命中简历画像 negative_directions 中的「营销、销售」方向，且该岗位无开发/工程/算法/AI 应用职责，按规则必须 reject，分数不超过 30。"
+        ],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：营销、客户拓展",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "2f87b44a37029298",
+          "title": "飞凡计划-营销方向(J12883)",
+          "company": null,
+          "department": "营销类",
+          "location": null,
+          "description": "飞凡计划-营销方向(J12883)\n飞凡计划\n全职\n安徽省·合肥市\n营销类\n2026-06-30 发布\n工作职责\n你将负责区域内行业客户拓展和解决方案提供。在客户界面代表公司，和教育、医疗、政法等行业大咖进行深入沟通，深刻理解客户需求，把握行业趋势，敏感捕捉商机，用人工智能建设美好世界！\n任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情",
+          "requirements": "任职资格\n1、2025-2027届本科及以上学历毕业生，专业不限，计算机相关专业优先\n2、符合科大讯飞的人才观：有本事、有热爱、有担当、能自省\n3、良好的沟通理解和人际交往能力\n4、敢于创造创新，积极拥抱变化，勇于接受挑战\n此岗位为科大讯飞集团统一招聘岗位，人员通过简历筛选、初试、复试、终审等环节后录用。\n你投递的飞凡计划职位个数已达上限(1个)\n查看已投递记录\n立即投递\n收藏\n查看详情",
+          "skills": [],
+          "detail_url": "https://iflytek.zhiye.com/5/jobs",
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      },
+      {
+        "rank": 3,
+        "score": 15,
+        "decision": "reject",
+        "title": "飞凡计划-产品方向(J12874)",
+        "company": "科大讯飞",
+        "reasons": [
+          "岗位所属部门为「产品类」，JD 未提供工作职责、任职要求或技能清单等有效信息。",
+          "产品方向属于 negative_directions 中的「产品经理」，且该岗位无开发/工程/算法/AI 应用职责描述，按规则必须 reject，分数不超过 30。"
+        ],
+        "risks": [
+          "未明显命中简历核心技能",
+          "触发降权方向：产品方向、产品类",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [],
+        "job_url": "https://iflytek.zhiye.com/5/jobs",
+        "job": {
+          "id": "423c8ba852bdf0f0",
+          "title": "飞凡计划-产品方向(J12874)",
+          "company": null,
+          "department": "产品类",
+          "location": null,
+          "description": "飞凡计划-产品方向(J12874)\n飞凡计划\n全职\n安徽省·合肥市\n产品类\n2026-06-30 发布\n没有更多了~\n联系我们\n4000-199-199\n校招答疑：campus@iflytek.com\n总部：安徽省合肥市蜀山区望江西路666号科大讯飞语音产业基地\n友情链接\n关于讯飞\n讯飞公益\n科大讯飞集团\n科大讯飞招聘\n科大讯飞招聘\n©2026 科大讯飞招聘官网京ICP备05051632号-16京公网安备 11010802032024号|隐私政策Powered by Beisen",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": "html > body > div.pc-page-container:nth-of-type(3) > div.styled__pageContent-editor__sc-12b48c3-1.BNqUE:nth-of-type(2) > div.style__STPCJobList-editor__sc-501x1y-0.bZLziM",
+          "apply_url": null,
+          "source_url": "https://iflytek.zhiye.com/5/jobs",
+          "confidence": 0.78
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "50968c6a-258f-4683-a0dd-bb4a05e8a0f2": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 35,
+        "decision": "reject",
+        "title": "人体表情和肢体动画合成等相关技术的研发应用",
+        "company": "乐元素",
+        "reasons": [
+          "岗位核心方向为3D动画合成、人体表情/肢体动画生成，属于图形学算法研究范畴，与候选人以Java/Python工程化落地为核心的AI应用开发背景差异较大。",
+          "虽涉及图像生成与多模态大模型，与候选人AIGC生图经验有表层交集，但该岗位聚焦GAN、3D Gaussian Splatting等前沿图形算法研究，候选人简历中未展示任何3D建模、动画合成或相关算法研究经历。",
+          "加分项明确要求发表AI领域顶级会议/期刊论文，候选人无论文发表记录，且候选人自我定位为工程开发者而非算法研究员，与岗位画像不符。"
+        ],
+        "risks": [
+          "岗位若实际偏重纯算法研究，候选人工程化能力无法发挥；3D动画合成领域门槛高，短期难以切入。"
+        ],
+        "missing_skills": [
+          "3D图形建模",
+          "动画合成技术",
+          "GAN/扩散模型算法研究",
+          "3D Gaussian Splatting",
+          "顶级会议论文发表"
+        ],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+        "job": {
+          "id": "088112e95cc83e37",
+          "title": "人体表情和肢体动画合成等相关技术的研发应用",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "岗位职责：\n1、负责图像生成和编辑、三维图形建模、人体表情和肢体动画合成等相关技术的研发应用；\n2、负责图像图形相关领域的前沿技术探索，包括但不限于GAN, Stable Diffusion, 3d Gaussian Splatting, 多模态大模型；\n任职要求：\n1、2027届 计算机、通信电子、自动化类专业硕士及以上学位；\n2、具有图像视觉，图形建模，动画合成方向，多模态大模型的算法研究或落地应用的项目经验；\n3、具备较好的计算机编程能力，熟练掌握Python编程；\n4、优秀的分析问题和解决问题的能力，对解决挑战性问题充满热情；\n5、具有良好的沟通能力和团队合作精神。\n加分项：发表过AI领域顶级会议/期刊论文",
+          "requirements": "任职要求：\n1、2027届 计算机、通信电子、自动化类专业硕士及以上学位；\n2、具有图像视觉，图形建模，动画合成方向，多模态大模型的算法研究或落地应用的项目经验；\n3、具备较好的计算机编程能力，熟练掌握Python编程；\n4、优秀的分析问题和解决问题的能力，对解决挑战性问题充满热情；\n5、具有良好的沟通能力和团队合作精神。\n加分项：发表过AI领域顶级会议/期刊论文",
+          "skills": [
+            "大模型",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+          "confidence": 0.65
+        }
+      },
+      {
+        "rank": 2,
+        "score": 22,
+        "decision": "reject",
+        "title": "并跟进至开发落地",
+        "company": "乐元素",
+        "reasons": [
+          "岗位为游戏系统策划（系统玩法设计），职责围绕卡牌养成、Gacha、社交互动等游戏玩法方案设计，非软件工程/开发岗位，与候选人技术背景完全不匹配。",
+          "乐元素为游戏公司，落入候选人negative_directions中的游戏领域；核心能力要求为逻辑思维与跨部门沟通，而非技术开发能力。",
+          "岗位要求熟练掌握Excel等办公工具，对Python/游戏引擎仅作加分项，技术含量低，无法发挥候选人在AI应用研发和后端工程方面的专长。"
+        ],
+        "risks": [
+          "岗位与候选人所有目标角色（AI应用研发、Agent开发、Java/Python后端开发等）完全不匹配，技术成长空间有限。",
+          "触发降权方向：运营",
+          "命中本地硬过滤，Claude 不能将明显不匹配岗位提升为可考虑"
+        ],
+        "missing_skills": [
+          "游戏系统设计",
+          "游戏策划方法论",
+          "Excel高级数据处理"
+        ],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/d94e0174-6f9b-4160-8195-6f30bc902d9e",
+        "job": {
+          "id": "ad06fb061d9cf098",
+          "title": "并跟进至开发落地",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "岗位职责：\n负责游戏内各系统玩法（如卡牌养成、Gacha、社交、互动玩法等）的方案设计，撰写清晰的系统策划案，推进提出文案、美术、功能需求，并跟进至开发落地。\n基础要求：\n教育背景： 2027 届本科及以上学历，专业不限。\n核心能力： 具备极强的逻辑思维与严谨的思辨能力；抗压能力强，拥有出色的跨部门沟通和协同推进能力。\n自驱力： 对游戏研发充满热情，乐于钻研事物背后的底层规则与运作逻辑，而非单纯的“玩家心态”。\n熟练度： 熟练掌握 Excel 等办公工具（能运用基础公式进行数据处理），对 Python 等工具或游戏引擎（如 Unity）有了解者加分。\n加分项：\n垂直重度玩家： 深度体验过《Ensemble Stars!! Music》、《Project Sekai》或其他核心二次元音舞、女性向卡牌游戏，能拆解其核心循环、付费点、或粉丝运营的情感驱动力。\n圈层文化拥趸： 拥有丰富的追星经验（三次元 K-pop/内娱、二次元虚拟偶像/声优圈皆可），深刻理解粉丝群体的核心诉求、应援心理及“为爱买单”的情感链路。\n创作/同人同好： 具备出色的审美，在同人创作、音游制谱、同人小说或剪辑等领域有产出者优先（可附带作品集）。",
+          "requirements": "要求：\n教育背景： 2027 届本科及以上学历，专业不限。\n核心能力： 具备极强的逻辑思维与严谨的思辨能力；抗压能力强，拥有出色的跨部门沟通和协同推进能力。\n自驱力： 对游戏研发充满热情，乐于钻研事物背后的底层规则与运作逻辑，而非单纯的“玩家心态”。\n熟练度： 熟练掌握 Excel 等办公工具（能运用基础公式进行数据处理），对 Python 等工具或游戏引擎（如 Unity）有了解者加分。\n加分项：\n垂直重度玩家： 深度体验过《Ensemble Stars!! Music》、《Project Sekai》或其他核心二次元音舞、女性向卡牌游戏，能拆解其核心循环、付费点、或粉丝运营的情感驱动力。\n圈层文化拥趸： 拥有丰富的追星经验（三次元 K-pop/内娱、二次元虚拟偶像/声优圈皆可），深刻理解粉丝群体的核心诉求、应援心理及“为爱买单”的情感链路。\n创作/同人同好： 具备出色的审美，在同人创作、音游制谱、同人小说或剪辑等领域有产出者优先（可附带作品集）。",
+          "skills": [
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+          "confidence": 0.65
+        }
+      },
+      {
+        "rank": 3,
+        "score": 12,
+        "decision": "reject",
+        "title": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发",
+        "company": "乐元素",
+        "reasons": [
+          "仅为一条筛选条件，非完整岗位描述，无法获取岗位职责、技术要求和团队方向等关键信息。",
+          "来自游戏公司乐元素招聘页面，属于游戏开发方向；候选人negative_directions明确排除游戏客户端开发。",
+          "JD信息严重不足，不确定具体岗位性质，但基于来源判断属于游戏相关岗位。"
+        ],
+        "risks": [
+          "信息极度匮乏，无法进行有效匹配评估；疑似为某个游戏技术岗位的附加筛选条件而非独立岗位。"
+        ],
+        "missing_skills": [
+          "游戏开发经验",
+          "Game Jam参与经历"
+        ],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+        "job": {
+          "id": "5d58045e1a4f1784",
+          "title": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发；",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发；",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+          "confidence": 0.5
+        }
+      },
+      {
+        "rank": 5,
+        "score": 8,
+        "decision": "reject",
+        "title": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发",
+        "company": "乐元素",
+        "reasons": [
+          "与第3项内容完全重复，疑似数据抓取重复或同一筛选条件在多个岗位条目中出现。",
+          "来自游戏公司乐元素，属于游戏开发方向；候选人negative_directions明确排除游戏客户端开发。",
+          "JD信息极度匮乏，仅为一条筛选条件。"
+        ],
+        "risks": [
+          "信息严重不足且疑似重复数据，无法进行有效匹配评估。"
+        ],
+        "missing_skills": [
+          "游戏开发经验",
+          "Game Jam参与经历"
+        ],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/job/d94e0174-6f9b-4160-8195-6f30bc902d9e",
+        "job": {
+          "id": "5d58045e1a4f1784",
+          "title": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发；",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发；",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs?340045%5B0%5D=%E5%BA%94%E5%B1%8A%E7%94%9F&page=1&anchorName=jobsList",
+          "confidence": 0.5
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  },
+  "3cfbcb5e-8035-4627-b141-f40436074132": {
+    "results": [
+      {
+        "rank": 1,
+        "score": 25,
+        "decision": "reject",
+        "title": "人体表情和肢体动画合成等相关技术的研发应用",
+        "company": null,
+        "reasons": [
+          "该岗位来自乐元素（游戏公司），核心方向是三维图形建模、人体表情/肢体动画合成、GAN/Stable Diffusion/3D Gaussian Splatting 等视觉生成算法研发，属于游戏客户端视觉算法岗位。",
+          "候选人虽有 AIGC 生图工程经验，但层面是业务工程化（异步任务编排、API 集成、任务一致性治理），并非 GAN/Diffusion 模型训练或 3D 图形算法研发，与 JD 要求的「图像视觉/图形建模/动画合成方向的算法研究或落地应用」不符。",
+          "JD 未提及 Java/Spring Boot/Agent/RAG/SSE/ES/Kafka 等候选人核心技能栈，技术栈完全不匹配。",
+          "命中 negative_directions 中的游戏客户端开发方向。",
+          "加分项要求顶会论文，候选人虽有数学建模获奖但无视觉生成领域论文。",
+          "C++ 在岗位中大概率是主要开发语言，而简历画像未将 C++ 作为目标方向。"
+        ],
+        "risks": [
+          "岗位属于游戏视觉算法研发，与候选人 AI 应用工程化/Agent/RAG 方向完全偏离",
+          "无 Java 后端/Agent 开发/搜索系统/分布式工程化相关职责",
+          "C++ 为主力语言的风险极高"
+        ],
+        "missing_skills": [
+          "GAN/Stable Diffusion 算法落地经验",
+          "3D Gaussian Splatting",
+          "3D 图形建模与动画合成",
+          "顶会/期刊论文",
+          "视觉生成领域的算法研究经验"
+        ],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs",
+        "job": {
+          "id": "1ab0b746751b198f",
+          "title": "人体表情和肢体动画合成等相关技术的研发应用",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "岗位职责：\n1、负责图像生成和编辑、三维图形建模、人体表情和肢体动画合成等相关技术的研发应用；\n2、负责图像图形相关领域的前沿技术探索，包括但不限于GAN, Stable Diffusion, 3d Gaussian Splatting, 多模态大模型；\n任职要求：\n1、2027届 计算机、通信电子、自动化类专业硕士及以上学位；\n2、具有图像视觉，图形建模，动画合成方向，多模态大模型的算法研究或落地应用的项目经验；\n3、具备较好的计算机编程能力，熟练掌握Python编程；\n4、优秀的分析问题和解决问题的能力，对解决挑战性问题充满热情；\n5、具有良好的沟通能力和团队合作精神。\n加分项：发表过AI领域顶级会议/期刊论文",
+          "requirements": "任职要求：\n1、2027届 计算机、通信电子、自动化类专业硕士及以上学位；\n2、具有图像视觉，图形建模，动画合成方向，多模态大模型的算法研究或落地应用的项目经验；\n3、具备较好的计算机编程能力，熟练掌握Python编程；\n4、优秀的分析问题和解决问题的能力，对解决挑战性问题充满热情；\n5、具有良好的沟通能力和团队合作精神。\n加分项：发表过AI领域顶级会议/期刊论文",
+          "skills": [
+            "大模型",
+            "Python"
+          ],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs",
+          "confidence": 0.65
+        }
+      },
+      {
+        "rank": 3,
+        "score": 8,
+        "decision": "reject",
+        "title": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发",
+        "company": null,
+        "reasons": [
+          "该条目并非独立岗位，而是乐元素校招中对游戏相关岗位的候选条件/偏好描述（要求有 Game Jam 或独立游戏开发经验）。",
+          "无岗位职责描述、无任职要求、无 skill 列表，confidence 仅 0.5，信息严重不完整。",
+          "属于游戏行业偏好项，命中 negative_directions 中的游戏客户端开发方向。",
+          "候选人无游戏项目经验，不满足该偏好。"
+        ],
+        "risks": [
+          "不是正式岗位，仅为偏好筛选条件",
+          "游戏行业方向，与候选人目标不符"
+        ],
+        "missing_skills": [
+          "Game Jam 经验",
+          "独立游戏开发经验"
+        ],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs",
+        "job": {
+          "id": "0541569951977ee8",
+          "title": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发；",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "有游戏项目实习经验，或参与过Game Jam、独立游戏开发；",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs",
+          "confidence": 0.5
+        }
+      },
+      {
+        "rank": 4,
+        "score": 5,
+        "decision": "reject",
+        "title": "自驱力：对游戏研发充满热情，乐于钻研事物背后的底层规则与运作逻辑",
+        "company": null,
+        "reasons": [
+          "该条目并非岗位，仅是乐元素校招中对候选人的文化/态度要求描述片段，无任何岗位职责、任职要求或技能描述。",
+          "属于游戏行业文化价值观陈述，与候选人职业方向无关。",
+          "confidence 仅 0.5，信息极度不完整。"
+        ],
+        "risks": [
+          "不是正式岗位，仅为文化要求片段",
+          "游戏行业方向"
+        ],
+        "missing_skills": [],
+        "job_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs",
+        "job": {
+          "id": "d51c254f50577c3b",
+          "title": "自驱力： 对游戏研发充满热情，乐于钻研事物背后的底层规则与运作逻辑，而非单纯的“玩家心态”。",
+          "company": null,
+          "department": null,
+          "location": null,
+          "description": "自驱力： 对游戏研发充满热情，乐于钻研事物背后的底层规则与运作逻辑，而非单纯的“玩家心态”。",
+          "requirements": "",
+          "skills": [],
+          "detail_url": null,
+          "detail_selector": null,
+          "apply_url": null,
+          "source_url": "https://app.mokahr.com/campus-recruitment/leyuansu/166186#/jobs",
+          "confidence": 0.5
+        }
+      }
+    ],
+    "source": "claude",
+    "diagnostics": []
+  }
+}

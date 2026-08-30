@@ -1,0 +1,322 @@
+{
+  "b1c860c4-0187-499f-b79e-dd12445ae77f": {
+    "profile": {
+      "target_roles": [
+        "AI应用研发工程师",
+        "大模型应用开发工程师",
+        "算法工程化工程师",
+        "Python/C++研发工程师"
+      ],
+      "core_skills": [
+        "Python",
+        "C++",
+        "RAG",
+        "Agent",
+        "LLM",
+        "模型部署",
+        "推理服务"
+      ],
+      "secondary_skills": [
+        "Java",
+        "FastAPI",
+        "PyTorch",
+        "向量数据库",
+        "Docker",
+        "数据处理"
+      ],
+      "project_keywords": [
+        "大模型",
+        "知识库",
+        "问答",
+        "推荐",
+        "检索",
+        "后端服务",
+        "工程化"
+      ],
+      "negative_directions": [
+        "销售",
+        "运营",
+        "纯测试",
+        "硬件",
+        "外包",
+        "驻场"
+      ],
+      "ranking_weights": {
+        "role_direction": 35,
+        "core_skill_match": 30,
+        "project_relevance": 20,
+        "location_or_company": 10,
+        "risk_penalty": 5
+      }
+    },
+    "raw_rules": {
+      "target_roles": [
+        "AI应用研发工程师",
+        "大模型应用开发工程师",
+        "算法工程化工程师",
+        "Python/C++研发工程师"
+      ],
+      "core_skills": [
+        "Python",
+        "C++",
+        "RAG",
+        "Agent",
+        "LLM",
+        "模型部署",
+        "推理服务"
+      ],
+      "secondary_skills": [
+        "Java",
+        "FastAPI",
+        "PyTorch",
+        "向量数据库",
+        "Docker",
+        "数据处理"
+      ],
+      "project_keywords": [
+        "大模型",
+        "知识库",
+        "问答",
+        "推荐",
+        "检索",
+        "后端服务",
+        "工程化"
+      ],
+      "negative_directions": [
+        "销售",
+        "运营",
+        "纯测试",
+        "硬件",
+        "外包",
+        "驻场"
+      ],
+      "ranking_weights": {
+        "role_direction": 35,
+        "core_skill_match": 30,
+        "project_relevance": 20,
+        "location_or_company": 10,
+        "risk_penalty": 5
+      }
+    },
+    "source": "heuristic"
+  },
+  "7b77209a-ca14-4628-80c6-3498fd80f0c0": {
+    "profile": {
+      "target_roles": [
+        "AI应用研发工程师",
+        "Agent开发工程师",
+        "RAG/检索增强工程师",
+        "大模型应用工程化工程师",
+        "Java后端开发工程师",
+        "Python后端开发工程师"
+      ],
+      "core_skills": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "FastAPI",
+        "Agent工作流设计",
+        "MCP协议",
+        "RAG/检索增强",
+        "LLMStack",
+        "AIGC任务编排",
+        "SSE流式响应",
+        "异步任务编排",
+        "幂等控制",
+        "降级兜底",
+        "链路追踪",
+        "Elasticsearch",
+        "Kafka",
+        "RocketMQ",
+        "Canal",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "A2A协议",
+        "分布式一致性治理",
+        "CompletableFuture",
+        "Binlog CDC"
+      ],
+      "secondary_skills": [
+        "Claude Code CLI",
+        "Codex CLI",
+        "MCP Server",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "ECharts",
+        "HDBSCAN",
+        "无监督聚类",
+        "3D数据处理",
+        "Flask",
+        "Django",
+        "CountDownLatch",
+        "AI辅助开发",
+        "技术博客",
+        "技术输出"
+      ],
+      "project_keywords": [
+        "AI生图异步任务架构",
+        "智能装修Agent",
+        "分布式任务一致性治理",
+        "圈子搜索系统",
+        "Binlog事件管道",
+        "SSE流式AI回复",
+        "破冰推荐优化",
+        "智能实验室协作系统",
+        "A2A数字分身交互",
+        "伪多视角数据挖掘",
+        "AIGC创意生图",
+        "商家智能装修",
+        "流式大模型对话",
+        "实时数据同步",
+        "无监督聚类pipeline"
+      ],
+      "negative_directions": [
+        "C++开发",
+        "C++工程师",
+        "嵌入式C++开发",
+        "底层驱动开发",
+        "嵌入式软件开发",
+        "驱动开发工程师",
+        "移动端开发",
+        "iOS开发",
+        "Android开发",
+        "前端开发工程师",
+        "纯算法研究员",
+        "数据科学家",
+        "游戏客户端开发",
+        "DevOps工程师",
+        "SRE运维工程师",
+        "C++主导",
+        "嵌入式C++",
+        "底层驱动",
+        "硬件"
+      ],
+      "ranking_weights": {
+        "AI应用研发": 10,
+        "Agent开发": 10,
+        "RAG/检索增强": 9,
+        "大模型工程化": 9,
+        "Java后端": 8,
+        "Python后端": 8,
+        "SSE/流式响应": 8,
+        "搜索系统/Elasticsearch": 7,
+        "消息队列/流处理": 7,
+        "分布式系统": 7,
+        "实时数据同步": 7,
+        "AIGC/图像生成": 7,
+        "A2A协议": 6
+      }
+    },
+    "raw_rules": {
+      "target_roles": [
+        "AI应用研发工程师",
+        "Agent开发工程师",
+        "RAG/检索增强工程师",
+        "大模型应用工程化工程师",
+        "Java后端开发工程师",
+        "Python后端开发工程师"
+      ],
+      "core_skills": [
+        "Java",
+        "Spring Boot",
+        "Python",
+        "FastAPI",
+        "Agent工作流设计",
+        "MCP协议",
+        "RAG/检索增强",
+        "LLMStack",
+        "AIGC任务编排",
+        "SSE流式响应",
+        "异步任务编排",
+        "幂等控制",
+        "降级兜底",
+        "链路追踪",
+        "Elasticsearch",
+        "Kafka",
+        "RocketMQ",
+        "Canal",
+        "MySQL",
+        "Redis",
+        "Docker",
+        "A2A协议",
+        "分布式一致性治理",
+        "CompletableFuture",
+        "Binlog CDC"
+      ],
+      "secondary_skills": [
+        "Claude Code CLI",
+        "Codex CLI",
+        "MCP Server",
+        "Pandas",
+        "NumPy",
+        "Matplotlib",
+        "ECharts",
+        "HDBSCAN",
+        "无监督聚类",
+        "3D数据处理",
+        "Flask",
+        "Django",
+        "CountDownLatch",
+        "AI辅助开发",
+        "技术博客",
+        "技术输出"
+      ],
+      "project_keywords": [
+        "AI生图异步任务架构",
+        "智能装修Agent",
+        "分布式任务一致性治理",
+        "圈子搜索系统",
+        "Binlog事件管道",
+        "SSE流式AI回复",
+        "破冰推荐优化",
+        "智能实验室协作系统",
+        "A2A数字分身交互",
+        "伪多视角数据挖掘",
+        "AIGC创意生图",
+        "商家智能装修",
+        "流式大模型对话",
+        "实时数据同步",
+        "无监督聚类pipeline"
+      ],
+      "negative_directions": [
+        "C++开发",
+        "C++工程师",
+        "嵌入式C++开发",
+        "底层驱动开发",
+        "嵌入式软件开发",
+        "驱动开发工程师",
+        "移动端开发",
+        "iOS开发",
+        "Android开发",
+        "前端开发工程师",
+        "纯算法研究员",
+        "数据科学家",
+        "游戏客户端开发",
+        "DevOps工程师",
+        "SRE运维工程师",
+        "C++主导",
+        "嵌入式C++",
+        "底层驱动",
+        "硬件"
+      ],
+      "ranking_weights": {
+        "AI应用研发": 10,
+        "Agent开发": 10,
+        "RAG/检索增强": 9,
+        "大模型工程化": 9,
+        "Java后端": 8,
+        "Python后端": 8,
+        "SSE/流式响应": 8,
+        "搜索系统/Elasticsearch": 7,
+        "消息队列/流处理": 7,
+        "分布式系统": 7,
+        "实时数据同步": 7,
+        "AIGC/图像生成": 7,
+        "A2A协议": 6
+      }
+    },
+    "source": "claude"
+  }
+}

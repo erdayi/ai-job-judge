@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "AI Job Judge",
+  "description": "Scan any job page, extract roles, and rank them against your resume.",
+  "version": "0.1.0",
+  "permissions": ["activeTab", "tabs", "scripting", "sidePanel", "storage"],
+  "host_permissions": ["<all_urls>", "http://127.0.0.1:8765/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "side_panel": {
+    "default_path": "sidepanel.html"
+  },
+  "action": {
+    "default_title": "AI Job Judge"
+  }
+}

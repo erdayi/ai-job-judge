@@ -1,0 +1,165 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>AI Job Judge</title>
+    <link rel="stylesheet" href="sidepanel.css" />
+  </head>
+  <body>
+    <main class="app">
+      <header class="topbar">
+        <div class="brand">
+          <span class="brand-mark">AJ</span>
+          <div>
+            <h1>AI Job Judge</h1>
+            <p id="status">连接本地服务中...</p>
+          </div>
+        </div>
+        <div class="top-actions">
+          <span class="live-pill">LOCAL</span>
+          <button id="healthButton" class="icon-button" title="检查服务" aria-label="检查服务">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M20 6v5h-5" />
+              <path d="M4 18v-5h5" />
+              <path d="M18.3 9A7 7 0 0 0 6.7 6.7L4 9" />
+              <path d="M5.7 15A7 7 0 0 0 17.3 17.3L20 15" />
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <section class="status-grid" aria-label="当前状态">
+        <div class="stat service-stat">
+          <span>LOCAL API</span>
+          <strong id="serviceBadge">检查中</strong>
+          <small>FastAPI</small>
+        </div>
+        <div class="stat ranker-stat">
+          <span>RANKER</span>
+          <strong id="rankerBadge">未运行</strong>
+          <small>Claude / fallback</small>
+        </div>
+        <div class="stat job-stat">
+          <span>JOBS</span>
+          <strong id="jobCountBadge">0</strong>
+          <small>已抽取</small>
+        </div>
+      </section>
+
+      <details class="panel setup-panel">
+        <summary>
+          <span><b>01</b> 简历与规则</span>
+          <small id="profileSummary">未生成规则</small>
+        </summary>
+        <label for="resumeFile">上传简历文件</label>
+        <input id="resumeFile" type="file" accept=".txt,.pdf,.docx" />
+        <label for="resumeText">简历文本</label>
+        <textarea id="resumeText" rows="7" placeholder="粘贴简历文本，或上传 PDF/DOCX/TXT"></textarea>
+        <div class="actions triple">
+          <button id="uploadFileButton">上传</button>
+          <button id="saveResumeButton">保存</button>
+          <button id="rulesButton">生成规则</button>
+        </div>
+        <pre id="rulesPreview" class="preview"></pre>
+      </details>
+
+      <section class="panel scan-panel">
+        <div class="section-head">
+          <div>
+            <h2><b>02</b> 扫描当前网页</h2>
+            <p>抽取岗位、补详情链接，再用 Claude 精排</p>
+          </div>
+        </div>
+        <div class="mode-row">
+          <label>扫描模式
+            <select id="scanMode">
+              <option value="balanced">均衡</option>
+              <option value="fast">快速</option>
+              <option value="deep">深度</option>
+            </select>
+          </label>
+          <label>候选上限<input id="maxCandidates" type="number" min="5" max="80" value="30" /></label>
+        </div>
+        <div class="grid">
+          <label>Top N<input id="topN" type="number" min="1" max="50" value="5" /></label>
+          <label>最大页数<input id="maxPages" type="number" min="1" max="50" value="10" /></label>
+          <label>最大岗位<input id="maxJobs" type="number" min="1" max="500" value="100" /></label>
+          <label>补详情数<input id="maxDetails" type="number" min="0" max="200" value="30" /></label>
+        </div>
+        <button id="scanButton" class="primary">扫描当前页</button>
+      </section>
+
+      <section class="results panel">
+        <div class="results-header">
+          <div>
+            <h2><b>03</b> 推荐结果</h2>
+            <p id="resultHint">等待扫描</p>
+          </div>
+          <span id="resultCount">0</span>
+        </div>
+        <div class="bulk-actions">
+          <button id="saveVisibleResultsButton">保存当前筛选结果</button>
+        </div>
+        <div class="filter-bar" aria-label="结果筛选">
+          <button class="filter-button active" data-filter="all">全部</button>
+          <button class="filter-button" data-filter="recommend">推荐</button>
+          <button class="filter-button" data-filter="maybe">可考虑</button>
+          <button class="filter-button" data-filter="reject">不建议</button>
+        </div>
+        <div id="results" class="result-list"></div>
+        <details class="debug">
+          <summary>扫描诊断</summary>
+          <div id="diagnosticSummary" class="diagnostic-summary"></div>
+          <pre id="debugTrace" class="preview"></pre>
+        </details>
+      </section>
+
+      <section class="panel tracker-panel">
+        <div class="section-head">
+          <div>
+            <h2><b>04</b> 岗位库</h2>
+            <p id="trackerHint">保存候选岗位，跟踪投递状态</p>
+          </div>
+          <span id="trackerCount">0</span>
+        </div>
+        <div class="tracker-stats" aria-label="岗位库统计">
+          <div><span>收藏</span><strong id="savedCount">0</strong></div>
+          <div><span>准备投递</span><strong id="readyCount">0</strong></div>
+          <div><span>已投递</span><strong id="appliedCount">0</strong></div>
+          <div><span>面试中</span><strong id="interviewCount">0</strong></div>
+          <div><span>近期动作</span><strong id="dueSoonCount">0</strong></div>
+          <div><span>已逾期</span><strong id="overdueCount">0</strong></div>
+        </div>
+        <div class="tracker-actions">
+          <button id="exportTrackerButton">导出 CSV</button>
+          <button id="clearTrackerButton">清空岗位库</button>
+        </div>
+        <div class="tracker-tools">
+          <label>搜索<input id="trackerSearch" type="search" placeholder="岗位、公司、标签" /></label>
+          <label>状态
+            <select id="trackerStatusFilter">
+              <option value="all">全部</option>
+              <option value="saved">收藏</option>
+              <option value="ready">准备投递</option>
+              <option value="applied">已投递</option>
+              <option value="interview">面试中</option>
+              <option value="rejected">放弃</option>
+            </select>
+          </label>
+          <label>排序
+            <select id="trackerSort">
+              <option value="priority">优先级</option>
+              <option value="deadline">截止时间</option>
+              <option value="next_action">下一步动作</option>
+              <option value="score">匹配分</option>
+              <option value="saved_at">保存时间</option>
+            </select>
+          </label>
+        </div>
+        <div id="trackerList" class="tracker-list"></div>
+      </section>
+    </main>
+    <script src="sidepanel.js"></script>
+  </body>
+</html>
